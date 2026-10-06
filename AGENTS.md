@@ -1,5 +1,5 @@
 <!-- Parent: ../AGENTS.md -->
-<!-- Generated: 2026-10-05 | Updated: 2026-10-05 -->
+<!-- Generated: 2026-10-05 | Updated: 2026-10-07 -->
 
 # 위키 (심리위키, Psych Wiki)
 
@@ -15,6 +15,8 @@ Three kinds of "visual" content exist, each with its own syntax and engine:
 | Animated diagram (SVG+SMIL) | `[[anim:pavlov_dog\|캡션]]` | `src/anims/*.js` (20) | `src/anims/_anim_engine.js` (AnimEngine) |
 
 Counts at first release (2026-10-05): 229 articles (6 guide/exam + 7 chapter mains + 216 dictionary), 10 sims, 20 anims, 218 slide captures.
+
+**2026-10-07 녹음 반영**: 9/29 풀 녹음(`0929.md`)·10/6 수업(`1006_1부/2부_심리_whisper.txt`)을 반영 — 장 메인 7개 🎙 절에 `=== 교수 중요 포인트 정리 ===` 소절(9/29 서막–3장 17포인트, 10/6 4–6장 11포인트), 6장 수업 기록(재전사로 복구된 1부 02:00–06:53·30:33–39:42 포함), 사전 문서 36편에 교수 인용 `{exam}`, `시험 정보`·`main` 시험 150분(14:30–17:00) 연장·답안지·퇴실·LMS, `자주 틀리는 함정 모음` 🎙 절, `명칭 암기표` 🎙 표시, `읽는 순서` 시험 직전 코스. 원자료: `../../.omc/handoffs/0929_교수포인트.md`, `1006_교수포인트.md`.
 
 ## Key Files
 | File | Description |
