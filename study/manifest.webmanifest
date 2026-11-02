@@ -1,0 +1,16 @@
+{
+ "name": "심리학 기말 (7–8장)",
+ "short_name": "심리학 기말 (",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0f1115",
+ "theme_color": "#0f1115",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
