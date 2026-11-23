@@ -38,6 +38,26 @@ ANIM_RE = re.compile(r"\[\[anim:([^\|\]\n]+)(?:\|[^\n]*?)?\]\]")
 LINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
 REQUIRED_KEYS = ("key", "title", "category")
 
+# 사이드바 탭 (알고위키 방식): '서막 …'·'1장'–'6장' 은 중간, '7장'– 은 기말.
+# 1장 p.30–34 통계는 기말에 연구설계와 합쳐 출제(🎙 9/22) → 별도 그룹으로 기말 탭에 둔다.
+MIDTERM_LAST_CHAPTER = 6
+CHAPTER_GROUP_RE = re.compile(r"^(\d+)장")
+FINAL_GROUPS = {"1장 통계적 추리 (기말)", "기말 시험 대비"}
+MID_GROUPS = {"중간 시험 대비"}
+# category 의 둘째 이후 항목이 이 그룹 이름이면 그 그룹에도 한 번 더 싣는다 (예: 명칭 암기표는 기말·중간 둘 다).
+CROSS_LIST_GROUPS = {"기말 시험 대비", "중간 시험 대비"}
+
+
+def nav_section(group):
+    if group in FINAL_GROUPS:
+        return "final"
+    if group in MID_GROUPS or group.startswith("서막"):
+        return "mid"
+    m = CHAPTER_GROUP_RE.match(group)
+    if m:
+        return "mid" if int(m.group(1)) <= MIDTERM_LAST_CHAPTER else "final"
+    return "common"
+
 
 def fail(msg):
     print("ERROR: %s" % msg, file=sys.stderr)
@@ -120,8 +140,13 @@ def main():
         g = a["category"][0]
         if g not in index:
             index[g] = len(nav)
-            nav.append({"group": g, "items": []})
-        nav[index[g]]["items"].append(a["key"])
+            nav.append({"group": g, "section": nav_section(g), "items": []})
+    for a in arts:
+        for c in a["category"]:
+            if c in index and (c == a["category"][0] or c in CROSS_LIST_GROUPS):
+                items = nav[index[c]]["items"]
+                if a["key"] not in items:
+                    items.append(a["key"])
 
     # ---------- 3. 이미지 ----------
     os.makedirs(IMAGES_DIR, exist_ok=True)

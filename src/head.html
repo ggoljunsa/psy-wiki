@@ -154,6 +154,21 @@
   aside ul li a:hover { background: #f0f4fa; text-decoration: underline; }
   aside ul li a.active { background: var(--header); color: #fff; font-weight: 600; }
   aside .cat { color: var(--muted); font-size: 11px; margin-top: 10px; }
+  /* 사이드바 탭 [기말 · 중간 · 공통] + 접히는 장 그룹 (알고위키에서 이식) */
+  aside ul li.nav-tabs { display: flex; gap: 4px; padding: 0 0 8px; position: sticky; top: -12px;
+    background: var(--paper); z-index: 1; padding-top: 2px; }
+  .nav-tabs button { flex: 1; font: inherit; font-size: 12px; padding: 5px 2px; cursor: pointer;
+    border: 1px solid var(--border); border-radius: 4px; background: transparent; color: var(--muted); }
+  .nav-tabs button.on { background: var(--header); border-color: var(--header); color: #fff; font-weight: 700; }
+  aside ul li .nav-group { display: flex; align-items: center; gap: 4px; width: 100%; text-align: left;
+    font: inherit; font-size: 13px; font-weight: 700; color: #34466b; background: transparent;
+    border: 0; border-top: 1px solid var(--border); padding: 7px 4px 5px; cursor: pointer; }
+  aside ul li:nth-child(2) > .nav-group { border-top: 0; }
+  .nav-group .caret { width: 12px; flex: none; color: var(--muted); }
+  .nav-group .cnt { margin-left: auto; font-size: 11px; font-weight: 400; color: var(--muted); }
+  aside ul.nav-items { padding-left: 10px; margin-bottom: 4px; }
+  aside ul.nav-items li { padding: 1px 0; }
+  aside ul li a.lecture-main { font-weight: 700; }
   aside.toc-side .toc-item { padding-left: 0; }
   aside.toc-side .toc-item.l2 { padding-left: 12px; }
   aside.toc-side .toc-item.l3 { padding-left: 24px; }
@@ -682,6 +697,7 @@
     <input id="searchBox" type="text" placeholder="문서 검색... (예: 하향 처리, 부적 강화, 작업 기억)">
   </div>
   <a class="pocket-btn" href="study/index.html" title="기말 범위 플래시카드·문제 (오프라인 앱)">📱 기내학습 (기말)</a>
+  <a class="pocket-btn" href="duo/index.html" title="한 번에 몇 문제씩 짧게 푸는 학습 (오프라인 앱)">📱 한입 학습</a>
   <div class="tagline">심리학으로의 여행 (Prof. 이소영) — 중간 서막~6장 · 기말 7장~</div>
 </header>
 
