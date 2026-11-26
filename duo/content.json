@@ -51,7 +51,8 @@
        ],
        "explain": "**개념 (Concept)** — '공을 던진다' 한마디로 수많은 공·동작을 한 번에 가리킨다. 교수: 수학으로 치면 '집합'",
        "src": "7장 p.2",
-       "wiki": "개념"
+       "wiki": "개념",
+       "explainImg": "duo/img/psy7-p2-slide.jpg"
       },
       {
        "id": "u7a-02",
@@ -64,7 +65,8 @@
        ],
        "explain": "**원형 (Prototype)** — 그러나 빈백·등받이 없는 의자처럼 원형이 범주 전체를 설명하지는 못한다",
        "src": "7장 p.2",
-       "wiki": "원형"
+       "wiki": "원형",
+       "explainImg": "duo/img/psy7-p2-slide.jpg"
       },
       {
        "id": "u7a-03",
@@ -94,7 +96,8 @@
          "발견법",
          "빠르지만 오류 위험이 있는 사고의 지름길"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p2-slide.jpg"
       },
       {
        "id": "u7a-04",
@@ -110,7 +113,8 @@
        "explain": "개념은 '집합', 원형은 그 집합의 '대표 원소'로 구분한다. 개념 안의 최선의 본보기 = 원형(prototype). 교수 예: 의자 = 다리 4개 + 판 + 등받이. (오답 ① 개념: 개념은 유사한 대상들의 **심적 집단** 자체이지 그 안의 대표 사례가 아니다.)",
        "src": "7장 p.2",
        "diff": 1,
-       "wiki": "원형"
+       "wiki": "원형",
+       "explainImg": "duo/img/psy7-p2-slide.jpg"
       },
       {
        "id": "u7a-05",
@@ -123,7 +127,8 @@
        ],
        "explain": "**범주화 지각 (Categorical perception)** — 원형에서 멀수록 경계가 모호(고래·토마토)",
        "src": "7장 p.3",
-       "wiki": "범주화 지각"
+       "wiki": "범주화 지각",
+       "explainImg": "duo/img/psy7-p3-slide.jpg"
       },
       {
        "id": "u7a-06",
@@ -140,7 +145,8 @@
        "src": "7장 p.3",
        "diff": 2,
        "prof": true,
-       "wiki": "범주화 지각"
+       "wiki": "범주화 지각",
+       "explainImg": "duo/img/psy7-p3-slide.jpg"
       },
       {
        "id": "u7a-07",
@@ -153,7 +159,8 @@
        ],
        "explain": "**로시 (Rosch, 1978)** — 범주 안에서 특정 심상·최선의 본보기(원형)를 발달시켜 개념을 형성한다고 본 학자 (1978)",
        "src": "7장 p.3",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "원형",
+       "explainImg": "duo/img/psy7-p3-slide.jpg"
       },
       {
        "id": "u7a-08",
@@ -162,7 +169,8 @@
        "explain": "반대다. 원형에서 멀수록 경계가 **모호**해진다(고래는 물고기? 토마토는 과일?). 원형에 가까울수록 빠르고 확실하게 판단한다.",
        "src": "7장 p.3",
        "wiki": "범주화 지각",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p3-slide.jpg"
       },
       {
        "id": "u7a-09",
@@ -179,7 +187,8 @@
        "src": "7장 p.4",
        "diff": 1,
        "prof": true,
-       "wiki": "알고리즘"
+       "wiki": "알고리즘",
+       "explainImg": "duo/img/psy7-p4-slide.jpg"
       },
       {
        "id": "u7a-10",
@@ -195,7 +204,8 @@
        "explain": "알고리즘 = 정확한 사고(보장·느림·자원 많이), 발견법 = 효율적 사고(빠름·오류·자원 적게). 반대다. 알고리즘은 단계적이라 **느리고** 자원 소모가 **크다**. 빠르고 자원이 적게 드는 것은 발견법. (오답 ① 해결책을 보장한다: 옳다 — 알고리즘의 장점.)",
        "src": "7장 p.4",
        "diff": 1,
-       "wiki": "알고리즘"
+       "wiki": "알고리즘",
+       "explainImg": "duo/img/psy7-p4-slide.jpg"
       },
       {
        "id": "u7a-11",
@@ -209,7 +219,8 @@
        "explain": "**통찰** — 직전 전두엽, 직후 우반구 측두엽 활동 증가(Kounios & Beeman). 단점: 발생하지 않을 수 있음.",
        "src": "7장 p.5",
        "diff": 1,
-       "wiki": "통찰"
+       "wiki": "통찰",
+       "explainImg": "duo/img/psy7-p5-slide.jpg"
       },
       {
        "id": "u7a-12",
@@ -225,7 +236,8 @@
        "explain": "통찰: '전두엽(주의) → 우반구 측두엽(깨달음)' 순서로 외운다. 슬라이드 그대로 — 직전 주의 관련 전두엽, 직후 우반구 측두엽 급증. (오답 ① 직전에는 우반구 측두엽, 직후에는 전두엽 활동이 증가한다: 순서를 뒤바꾼 함정이다.)",
        "src": "7장 p.5",
        "diff": 2,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "통찰",
+       "explainImg": "duo/img/psy7-p5-slide.jpg"
       },
       {
        "id": "u7a-13",
@@ -238,7 +250,8 @@
        ],
        "explain": "**마음 갖춤새 (mental set)** — 틀만들기도 마음 갖춤새를 형성해 사고를 유도한다(p.12)",
        "src": "7장 p.5, 12",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "고착",
+       "explainImg": "duo/img/psy7-p5-slide.jpg"
       },
       {
        "id": "u7a-14",
@@ -257,7 +270,8 @@
         "통찰",
         "원형",
         "넛지"
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p5-slide.jpg"
       },
       {
        "id": "u7a-15",
@@ -270,7 +284,8 @@
        ],
        "explain": "**발견법 (Heuristics)** — 신속하지만 실수 가능성 높음, 인지 자원 절약. 알고리즘과 혼용 가능",
        "src": "7장 p.6",
-       "wiki": "발견법"
+       "wiki": "발견법",
+       "explainImg": "duo/img/psy7-p6-slide.jpg"
       },
       {
        "id": "u7a-16",
@@ -279,7 +294,8 @@
        "explain": "반대다. 알고리즘은 **느리지만 해결을 보장**하고, 발견법이 **빠르지만 오류 위험**이 높다(인지 자원: 알고리즘 많이, 발견법 적게).",
        "src": "7장 p.4, 6, 21",
        "wiki": "알고리즘",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p6-slide.jpg"
       },
       {
        "id": "u7a-17",
@@ -290,7 +306,8 @@
        "wiki": "범주화 지각",
        "answer": false,
        "img": "duo/img/psy7-p3-faces.png",
-       "imgAlt": "백인 90~60%, 동양인 60~90% 비율로 합성한 얼굴 8장"
+       "imgAlt": "백인 90~60%, 동양인 60~90% 비율로 합성한 얼굴 8장",
+       "explainImg": "duo/img/psy7-p3-slide.jpg"
       }
      ]
     },
@@ -331,7 +348,8 @@
        ],
        "explain": "**대표성 발견법 (Representative Heuristic)** — 시 읽는 마른 사람 → 영문학 교수? (교수 400 vs 트럭 운전수 350만)",
        "src": "7장 p.7",
-       "wiki": "대표성 발견법"
+       "wiki": "대표성 발견법",
+       "explainImg": "duo/img/psy7-p7-slide.jpg"
       },
       {
        "id": "u7b-02",
@@ -344,7 +362,8 @@
        ],
        "explain": "**가용성 발견법 (Availability Heuristic)** — 비행기 사고·범죄 보도 → 과도한 공포. 1장 '강력한 사례의 가용성'과 같은 내용",
        "src": "7장 p.8",
-       "wiki": "발견법"
+       "wiki": "발견법",
+       "explainImg": "duo/img/psy7-p8-slide.jpg"
       },
       {
        "id": "u7b-03",
@@ -361,7 +380,8 @@
        "src": "7장 p.7",
        "diff": 1,
        "prof": true,
-       "wiki": "대표성 발견법"
+       "wiki": "대표성 발견법",
+       "explainImg": "duo/img/psy7-p7-slide.jpg"
       },
       {
        "id": "u7b-04",
@@ -378,7 +398,8 @@
        "src": "7장 p.8",
        "diff": 1,
        "prof": true,
-       "wiki": "발견법"
+       "wiki": "발견법",
+       "explainImg": "duo/img/psy7-p8-slide.jpg"
       },
       {
        "id": "u7b-05",
@@ -396,7 +417,8 @@
         "가용성",
         "확증",
         "틀만들기"
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p7-slide.jpg"
       },
       {
        "id": "u7b-06",
@@ -411,7 +433,8 @@
        "src": "7장 p.9",
        "diff": 2,
        "prof": true,
-       "wiki": "인지적 구두쇠"
+       "wiki": "인지적 구두쇠",
+       "explainImg": "duo/img/psy7-p9-slide.jpg"
       },
       {
        "id": "u7b-07",
@@ -428,7 +451,8 @@
        "src": "7장 p.9",
        "diff": 2,
        "prof": true,
-       "wiki": "대표성 발견법"
+       "wiki": "대표성 발견법",
+       "explainImg": "duo/img/psy7-p9-slide.jpg"
       },
       {
        "id": "u7b-08",
@@ -445,7 +469,8 @@
        "src": "7장 p.10",
        "diff": 1,
        "prof": true,
-       "wiki": "과신"
+       "wiki": "과신",
+       "explainImg": "duo/img/psy7-p10-slide.jpg"
       },
       {
        "id": "u7b-09",
@@ -458,7 +483,8 @@
        ],
        "explain": "**계획 오류 (planning fallacy)** — 과신이 일정에서 나타난 것 — 일이 걸릴 시간을 **과소 추정**",
        "src": "7장 p.10",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "과신",
+       "explainImg": "duo/img/psy7-p10-slide.jpg"
       },
       {
        "id": "u7b-10",
@@ -488,7 +514,8 @@
          "틀만들기",
          "논제를 제기하는 방식이 결정을 바꿈"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p7-slide.jpg"
       },
       {
        "id": "u7b-11",
@@ -503,7 +530,8 @@
        "src": "7장 p.11",
        "diff": 1,
        "prof": true,
-       "wiki": "신념 집착"
+       "wiki": "신념 집착",
+       "explainImg": "duo/img/psy7-p11-slide.jpg"
       },
       {
        "id": "u7b-12",
@@ -512,7 +540,8 @@
        "explain": "슬라이드 p.11: 신념 집착(토대가 반박돼도 생각에 매달림)의 대처 = **반대편 주장 고려**.",
        "src": "7장 p.11",
        "wiki": "신념 집착",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy7-p11-slide.jpg"
       },
       {
        "id": "u7b-13",
@@ -521,7 +550,8 @@
        "explain": "그건 **신념 집착**이다. 확증 편향은 증거를 **찾는 단계**에서 지지 증거만 모으는 것이다(교수는 둘이 「거의 같은 것」이라고도 했지만 정의는 구분).",
        "src": "7장 p.5, 11, 22",
        "wiki": "확증 편향",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p11-slide.jpg"
       },
       {
        "id": "u7b-14",
@@ -538,7 +568,8 @@
        "src": "7장 p.13",
        "diff": 1,
        "prof": true,
-       "wiki": "틀만들기"
+       "wiki": "틀만들기",
+       "explainImg": "duo/img/psy7-p13-slide.jpg"
       },
       {
        "id": "u7b-15",
@@ -552,7 +583,8 @@
        "explain": "**넛지(Nudge)** — 장기 기증 기본값, 작은 술잔 등.",
        "src": "7장 p.12",
        "diff": 2,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "틀만들기",
+       "explainImg": "duo/img/psy7-p12-slide.jpg"
       },
       {
        "id": "u7b-16",
@@ -568,7 +600,8 @@
        "explain": "시점으로 구분: 찾는 단계 = 확증 편향, 반박 후 = 신념 집착. 증거를 **찾는 단계**에서 지지 증거만 선택적으로 수집. (오답 ② 신념 집착: 신념이 **반박된 뒤에도** 유지하는 것 — 여기서는 반박을 접하기 전 단계다.)",
        "src": "7장 p.5, 11, 22",
        "diff": 3,
-       "wiki": "확증 편향"
+       "wiki": "확증 편향",
+       "explainImg": "duo/img/psy7-p5-slide.jpg"
       }
      ]
     },
@@ -609,7 +642,8 @@
        ],
        "explain": "**창의성 (creativity)** — Hennessey & Amabile(2010). 지능만으로는 설명 불가(뇌 활동이 다름)",
        "src": "7장 p.14",
-       "wiki": "창의성"
+       "wiki": "창의성",
+       "explainImg": "duo/img/psy7-p14-slide.jpg"
       },
       {
        "id": "u7c-02",
@@ -623,7 +657,8 @@
        ],
        "explain": "**확산적 사고 (divergent thinking)** — 예: 벽돌의 용도 많이 대기",
        "src": "7장 p.15",
-       "wiki": "확산적 사고와 수렴적 사고"
+       "wiki": "확산적 사고와 수렴적 사고",
+       "explainImg": "duo/img/psy7-p15-slide.jpg"
       },
       {
        "id": "u7c-03",
@@ -637,7 +672,8 @@
        ],
        "explain": "**수렴적 사고 (convergent thinking)** — 교수: 「가장 정확한 하나의 답을 고르는 능력」",
        "src": "7장 p.15",
-       "wiki": "확산적 사고와 수렴적 사고"
+       "wiki": "확산적 사고와 수렴적 사고",
+       "explainImg": "duo/img/psy7-p15-slide.jpg"
       },
       {
        "id": "u7c-04",
@@ -653,7 +689,8 @@
        "explain": "확산 = 다양성(전두엽 의존), 수렴 = 최선 하나(적성검사). 전두엽 손상 시 수렴적 사고는 유지되나 상상력(확산)은 손상된다(Kolb & Whishaw). (오답 ① 확산적 사고: 전두엽 손상 시 손상되는 쪽이다.)",
        "src": "7장 p.15",
        "diff": 2,
-       "wiki": "확산적 사고와 수렴적 사고"
+       "wiki": "확산적 사고와 수렴적 사고",
+       "explainImg": "duo/img/psy7-p15-slide.jpg"
       },
       {
        "id": "u7c-05",
@@ -662,7 +699,8 @@
        "explain": "전두엽 손상 시 손상되는 것은 **확산적 사고**(상상력)다. 수렴적 사고(최선의 해결책 하나)는 유지되며, 대부분의 적성검사가 요구한다.",
        "src": "7장 p.15",
        "wiki": "확산적 사고와 수렴적 사고",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p15-slide.jpg"
       },
       {
        "id": "u7c-06",
@@ -677,7 +715,8 @@
        ],
        "explain": "**스턴버그 & 루바트 (Sternberg & Lubart, 1991·1992)** — 스턴버그는 삼원 이론(p.35)에도 등장",
        "src": "7장 p.16",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "창의성의 구성 요소",
+       "explainImg": "duo/img/psy7-p16-slide.jpg"
       },
       {
        "id": "u7c-07",
@@ -693,7 +732,8 @@
        "explain": "5요소 = 전·상·모·내·환(전문성, 상상력 사고 기술, 모험지향적 성격, 내재적 동기, 창의적 환경). 5요소에 없다. 슬라이드는 오히려 창의성이 지능만으로 설명되지 않는다고 한다. (오답 ① 전문성: 5요소 — 잘 갖춰진 기반 지식.)",
        "src": "7장 p.16",
        "diff": 1,
-       "wiki": "일반 지능"
+       "wiki": "창의성의 구성 요소",
+       "explainImg": "duo/img/psy7-p16-slide.jpg"
       },
       {
        "id": "u7c-08",
@@ -723,7 +763,8 @@
          "창의적 환경",
          "의견 공유·소통, 토론과 지도"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p16-slide.jpg"
       },
       {
        "id": "u7c-09",
@@ -739,7 +780,8 @@
        "src": "7장 p.19",
        "diff": 1,
        "prof": true,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "창의성",
+       "explainImg": "duo/img/psy7-p19-slide.jpg"
       },
       {
        "id": "u7c-10",
@@ -755,7 +797,8 @@
        "explain": "함양법 4 = 전문성 발달 · 부화시간 · 명상·산책 · 다른 문화 경험. 반대다 — 계속 매달리면 좋은 해결책이 나오지 않으므로 **부화시간**을 두라고 한다. (오답 ② 부화시간 갖기: 함양법 — 무의식적 처리로 연합 형성.)",
        "src": "7장 p.19–20",
        "diff": 1,
-       "wiki": "창의성"
+       "wiki": "창의성",
+       "explainImg": "duo/img/psy7-p19-slide.jpg"
       },
       {
        "id": "u7c-11",
@@ -769,7 +812,8 @@
        "explain": "p.21 표에만 독립 항목으로 등장하는 **직관**. 알고리즘·발견법·통찰과 함께 '정확 vs 효율' 축에 놓인다.",
        "src": "7장 p.21",
        "diff": 2,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "발견법",
+       "explainImg": "duo/img/psy7-p21-slide.jpg"
       },
       {
        "id": "u7c-12",
@@ -785,7 +829,8 @@
        "explain": "p.21 단점 칸: 알고리즘 시간·노력 / 발견법 오류 / 통찰 발생 안 할 수 있음 / 직관 감정적 / 틀만들기 오도 / 창의성 관례 작업 방해. 통찰은 즉각적 해결을 주지만 언제 일어날지 보장이 없다. (오답 ① 오류의 위험성 높음: 발견법의 단점이다.)",
        "src": "7장 p.21",
        "diff": 3,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "통찰",
+       "explainImg": "duo/img/psy7-p21-slide.jpg"
       },
       {
        "id": "u7c-13",
@@ -801,7 +846,8 @@
        "explain": "장점 칸도 객관식 함정이 된다. 슬라이드 그대로. (오답 ① 지지 증거에 대한 신속한 재인: 확증 편향의 장점이다.)",
        "src": "7장 p.22",
        "diff": 3,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "과신",
+       "explainImg": "duo/img/psy7-p22-slide.jpg"
       },
       {
        "id": "u7c-14",
@@ -810,7 +856,8 @@
        "explain": "창의성의 단점 = **구조화된 관례적 작업의 방해**를 받음. '오류 위험성 높음'은 발견법, '시간·노력'은 알고리즘, '발생하지 않을 수 있음'은 통찰, '지나치게 감정적'은 직관이다.",
        "src": "7장 p.21",
        "wiki": "창의성",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p21-slide.jpg"
       },
       {
        "id": "u7c-15",
@@ -818,7 +865,7 @@
        "q": "인지 과정 비교: 알고리즘·발견법·통찰·직관은 ___ vs ___ 축에 놓이고, 확증 편향·고착·과신·신념 집착은 사고를 ___ 할 수 있는 요인이다.",
        "explain": "교수 정리: p.21 = 정확한 사고 vs 효율 추구, p.22 = 사고를 왜곡할 수 있는 요인. 틀만들기·창의성은 사고 과정에 영향을 주는 방향이다.",
        "src": "7장 p.21–22 🎙",
-       "wiki": "7장 사고와 언어 그리고 지능",
+       "wiki": "발견법",
        "prof": true,
        "answer": [
         "정확한 사고",
@@ -831,7 +878,8 @@
         "왜곡",
         "창의성",
         "가속"
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p21-slide.jpg"
       },
       {
        "id": "u7c-16",
@@ -840,7 +888,8 @@
        "explain": "창의성 5요소(p.16)와 삼원 이론(p.35) 둘 다 스턴버그다. 두 이론을 섞은 보기에 주의.",
        "src": "7장 p.16, 35",
        "wiki": "삼원 이론",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy7-p16-slide.jpg"
       }
      ]
     },
@@ -888,7 +937,8 @@
        ],
        "explain": "**음소 (Phoneme)** — 소리를 구분할 수 있는 **최소 단위** (예: 'ㄱ', 'ㅏ', bat의 b·a·t)",
        "src": "7장 p.24",
-       "wiki": "음소"
+       "wiki": "음소",
+       "explainImg": "duo/img/psy7-p24-slide.jpg"
       },
       {
        "id": "u7d-02",
@@ -901,7 +951,8 @@
        ],
        "explain": "**형태소 (Morpheme)** — **의미**를 구성하는 최소 단위 (예: 먹- + -었- + -다, re- + read + -ing)",
        "src": "7장 p.24",
-       "wiki": "형태소"
+       "wiki": "형태소",
+       "explainImg": "duo/img/psy7-p24-slide.jpg"
       },
       {
        "id": "u7d-03",
@@ -915,7 +966,8 @@
        "explain": "**통사론(syntax)** — 소리에서 의미를 도출하는 규칙은 의미론(semantics).",
        "src": "7장 p.24",
        "diff": 1,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "언어의 구조",
+       "explainImg": "duo/img/psy7-p24-slide.jpg"
       },
       {
        "id": "u7d-04",
@@ -945,7 +997,8 @@
          "언어의 생산성",
          "제한된 기호로 무한한 메시지 생성"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p24-slide.jpg"
       },
       {
        "id": "u7d-05",
@@ -960,7 +1013,8 @@
        "explain": "**언어의 생산성(generativity)** — 한국어 자음 19 + 모음 21로 무한한 문장.",
        "src": "7장 p.24",
        "diff": 2,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "언어의 구조",
+       "explainImg": "duo/img/psy7-p24-slide.jpg"
       },
       {
        "id": "u7d-06",
@@ -977,7 +1031,8 @@
        "src": "7장 p.25",
        "diff": 2,
        "prof": true,
-       "wiki": "보편 문법"
+       "wiki": "보편 문법",
+       "explainImg": "duo/img/psy7-p25-slide.jpg"
       },
       {
        "id": "u7d-07",
@@ -986,7 +1041,8 @@
        "explain": "아니다. 문법 구조 자체가 아니라 그것을 **학습할 수 있는 소양**을 타고난다는 것이다(촘스키).",
        "src": "7장 p.25",
        "wiki": "보편 문법",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p25-slide.jpg"
       },
       {
        "id": "u7d-08",
@@ -999,7 +1055,8 @@
         "옹알이 단계 (약 4개월)",
         "한 단어 단계 (약 12개월)",
         "두 단어 단계 (약 24개월)"
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p27-slide.jpg"
       },
       {
        "id": "u7d-09",
@@ -1015,7 +1072,8 @@
        "explain": "4 · 12 · 24개월, 모방 아님, 명사+동사. 슬라이드의 시기·순서 그대로. (오답 ① 옹알이는 어른의 말소리를 모방한 것이다: 옹알이는 언어와 무관한 소리로 **모방이 아니다**.)",
        "src": "7장 p.26–27",
        "diff": 2,
-       "wiki": "표현성 언어"
+       "wiki": "표현성 언어",
+       "explainImg": "duo/img/psy7-p27-slide.jpg"
       },
       {
        "id": "u7d-10",
@@ -1024,7 +1082,8 @@
        "explain": "아니다. 옹알이(약 4개월)는 언어와 무관한 소리 생성이며 어른 말소리의 **모방이 아니다**.",
        "src": "7장 p.27",
        "wiki": "표현성 언어",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p27-slide.jpg"
       },
       {
        "id": "u7d-11",
@@ -1038,7 +1097,8 @@
        ],
        "explain": "**결정적 시기 (= 민감 시기, Critical Period)** — 신경 가소성과 밀접. 노출 최선책 = 동화책 읽어 주기",
        "src": "7장 p.28",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "표현성 언어",
+       "explainImg": "duo/img/psy7-p28-slide.jpg"
       },
       {
        "id": "u7d-12",
@@ -1055,7 +1115,8 @@
        "src": "7장 p.28",
        "diff": 1,
        "prof": true,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "표현성 언어",
+       "explainImg": "duo/img/psy7-p28-slide.jpg"
       },
       {
        "id": "u7d-13",
@@ -1072,7 +1133,8 @@
        "src": "7장 p.29",
        "diff": 1,
        "prof": true,
-       "wiki": "베르니케 영역"
+       "wiki": "베르니케 영역",
+       "explainImg": "duo/img/psy7-p29-slide.jpg"
       },
       {
        "id": "u7d-14",
@@ -1089,7 +1151,8 @@
        "src": "7장 p.29",
        "diff": 2,
        "prof": true,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "브로카 영역",
+       "explainImg": "duo/img/psy7-p29-slide.jpg"
       },
       {
        "id": "u7d-15",
@@ -1109,7 +1172,8 @@
         "좌반구",
         "기억",
         "우반구"
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p29-slide.jpg"
       },
       {
        "id": "u7d-16",
@@ -1126,7 +1190,8 @@
        "src": "7장 p.30",
        "diff": 1,
        "prof": true,
-       "wiki": "언어결정론"
+       "wiki": "언어결정론",
+       "explainImg": "duo/img/psy7-p30-slide.jpg"
       },
       {
        "id": "u7d-17",
@@ -1142,7 +1207,8 @@
         "Broca"
        ],
        "img": "duo/img/psy7-p29-broca-q.png",
-       "imgAlt": "말하기(a)와 듣기(b) 때 활성화되는 좌반구 영역, 영역 이름은 가림"
+       "imgAlt": "말하기(a)와 듣기(b) 때 활성화되는 좌반구 영역, 영역 이름은 가림",
+       "explainImg": "duo/img/psy7-p29-slide.jpg"
       }
      ]
     },
@@ -1184,7 +1250,8 @@
        ],
        "explain": "**일반 지능 (General intelligence, g)** — **스피어만 (Spearman, 1904)**",
        "src": "7장 p.32",
-       "wiki": "일반 지능"
+       "wiki": "일반 지능",
+       "explainImg": "duo/img/psy7-p32-slide.jpg"
       },
       {
        "id": "u7e-02",
@@ -1197,7 +1264,8 @@
        ],
        "explain": "**요인 분석 (factor analysis)** — 서로 상관된 점수들의 **군집**을 찾아내는 통계 기법 — 스피어만이 g를 산출할 때 사용",
        "src": "7장 p.32",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "일반 지능",
+       "explainImg": "duo/img/psy7-p32-slide.jpg"
       },
       {
        "id": "u7e-03",
@@ -1210,7 +1278,8 @@
        ],
        "explain": "**1차 심적 능력 (primary mental abilities)** — **서스톤 (Thurstone)**. 교수: 「중간적인 위치」",
        "src": "7장 p.33",
-       "wiki": "1차 심적 능력"
+       "wiki": "1차 심적 능력",
+       "explainImg": "duo/img/psy7-p33-slide.jpg"
       },
       {
        "id": "u7e-04",
@@ -1227,7 +1296,8 @@
        "src": "7장 p.33–34",
        "diff": 2,
        "prof": true,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "1차 심적 능력",
+       "explainImg": "duo/img/psy7-p33-slide.jpg"
       },
       {
        "id": "u7e-05",
@@ -1237,7 +1307,8 @@
        "src": "7장 p.33–34 🎙",
        "wiki": "1차 심적 능력",
        "prof": true,
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy7-p33-slide.jpg"
       },
       {
        "id": "u7e-06",
@@ -1250,7 +1321,8 @@
        ],
        "explain": "**다중 지능 이론 (multiple intelligences)** — **가드너 (Gardner)**. 교수: 근거 = 이중 해리",
        "src": "7장 p.34",
-       "wiki": "다중 지능"
+       "wiki": "다중 지능",
+       "explainImg": "duo/img/psy7-p34-slide.jpg"
       },
       {
        "id": "u7e-07",
@@ -1266,7 +1338,8 @@
        "explain": "**현자 증후군(savant syndrome)** — 가드너 다중 지능의 근거, 자폐 스펙트럼 동반 많음.",
        "src": "7장 p.34",
        "diff": 1,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "다중 지능",
+       "explainImg": "duo/img/psy7-p34-slide.jpg"
       },
       {
        "id": "u7e-08",
@@ -1282,7 +1355,8 @@
        "explain": "현자 증후군 = 가드너 p.34, 자폐 스펙트럼과 동반 많음. 한 영역이 낮아도 다른 영역은 높을 수 있다 → 영역들이 독립적. (오답 ① 스피어만의 일반 지능: 단일 g라면 특정 영역만 뛰어난 현상을 설명하기 어렵다.)",
        "src": "7장 p.34",
        "diff": 2,
-       "wiki": "다중 지능"
+       "wiki": "다중 지능",
+       "explainImg": "duo/img/psy7-p34-slide.jpg"
       },
       {
        "id": "u7e-09",
@@ -1290,7 +1364,7 @@
        "q": "지능 이론과 그 이론이 나눈 지능(성분)의 개수를 연결하시오",
        "explain": "교수가 두 번 정리한 p.39 표: 스피어만 1 · 스턴버그 3 · 정서 4 · 서스톤 7 · 가드너 8.",
        "src": "7장 p.39 🎙",
-       "wiki": "7장 사고와 언어 그리고 지능",
+       "wiki": "다중 지능",
        "prof": true,
        "pairs": [
         [
@@ -1313,7 +1387,8 @@
          "가드너",
          "8"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p39-slide.jpg"
       },
       {
        "id": "u7e-10",
@@ -1326,7 +1401,8 @@
        ],
        "explain": "**삼원 이론 (triarchic theory)** — **스턴버그 (Sternberg)** — 지능을 **분석·창의성·현실** 3개 하위 영역으로 분류",
        "src": "7장 p.35",
-       "wiki": "삼원 이론"
+       "wiki": "삼원 이론",
+       "explainImg": "duo/img/psy7-p35-slide.jpg"
       },
       {
        "id": "u7e-11",
@@ -1343,7 +1419,8 @@
        "src": "7장 p.39",
        "diff": 3,
        "prof": true,
-       "wiki": "다중 지능"
+       "wiki": "다중 지능",
+       "explainImg": "duo/img/psy7-p39-slide.jpg"
       },
       {
        "id": "u7e-12",
@@ -1360,7 +1437,8 @@
        "src": "7장 p.39",
        "diff": 2,
        "prof": true,
-       "wiki": "정서 지능"
+       "wiki": "정서 지능",
+       "explainImg": "duo/img/psy7-p39-slide.jpg"
       },
       {
        "id": "u7e-13",
@@ -1369,7 +1447,8 @@
        "explain": "가드너의 8영역은 **상대적으로 독립적**이다(한 영역이 손상돼도 다른 영역은 온전). 교수: 개수 차이가 아니라 독립성이 핵심.",
        "src": "7장 p.34",
        "wiki": "다중 지능",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p34-slide.jpg"
       },
       {
        "id": "u7e-14",
@@ -1382,7 +1461,8 @@
        ],
        "explain": "**정서 지능 (emotional intelligence)** — 지각·이해·관리·사용. 비판: 지능 개념 과도 확장(Waterhouse)",
        "src": "7장 p.37–38",
-       "wiki": "정서 지능"
+       "wiki": "정서 지능",
+       "explainImg": "duo/img/psy7-p37-slide.jpg"
       },
       {
        "id": "u7e-15",
@@ -1398,7 +1478,8 @@
        "explain": "지·이·관·사 = 지각·이해·관리·사용. 4성분에 없다. (오답 ② 정서 지각: 성분 — 외부 요인에서 정서를 재인.)",
        "src": "7장 p.37",
        "diff": 1,
-       "wiki": "정서 지능"
+       "wiki": "정서 지능",
+       "explainImg": "duo/img/psy7-p37-slide.jpg"
       },
       {
        "id": "u7e-16",
@@ -1406,7 +1487,7 @@
        "q": "지능 이론별 비판: 가드너 이론은 '모든 능력을 ___ 이라 칭할 필요는 없다', 스턴버그 이론은 세 영역이 ___ 이지 않을 수 있다, 정서 지능은 지능 개념을 과하게 ___ 했다는 지적을 받는다.",
        "explain": "p.39 각 이론의 다른 고려사항: g(단일 지표로 못 묶음), 서스톤(g 영향 존재), 가드너(모든 능력=지능? X), 스턴버그(세 영역 비독립 가능), 정서 지능(과대 확장).",
        "src": "7장 p.39 🎙",
-       "wiki": "7장 사고와 언어 그리고 지능",
+       "wiki": "다중 지능",
        "prof": true,
        "answer": [
         "지능",
@@ -1419,7 +1500,8 @@
         "확대",
         "보편적",
         "축소"
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p39-slide.jpg"
       }
      ]
     },
@@ -1466,7 +1548,8 @@
        "src": "7장 p.40",
        "diff": 1,
        "prof": true,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "지능 검사",
+       "explainImg": "duo/img/psy7-p40-slide.jpg"
       },
       {
        "id": "u7f-02",
@@ -1479,7 +1562,8 @@
        ],
        "explain": "**적성 검사 (aptitude test)** — 개인의 **미래 성취를 예측**하는 검사 (IQ와 SAT 상관 약 0.82)",
        "src": "7장 p.40",
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "지능 검사",
+       "explainImg": "duo/img/psy7-p40-slide.jpg"
       },
       {
        "id": "u7f-03",
@@ -1509,7 +1593,8 @@
          "타당도",
          "재려던 것을 실제로 재는가"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy7-p40-slide.jpg"
       },
       {
        "id": "u7f-04",
@@ -1525,7 +1610,8 @@
        "explain": "골턴(신체, 실패) → 비네(정신 연령) → 터먼(스탠퍼드-비네, 생득) → 스턴(IQ 공식) → 웩슬러(WAIS). 슬라이드 그대로(프랑스 의무 교육 배경). (오답 ① 생득적 지능을 측정할 수 있다고 가정했다: **터먼**(스탠퍼드-비네)의 가정 — 비네와 정반대.)",
        "src": "7장 p.41–42",
        "diff": 2,
-       "wiki": "지능 검사"
+       "wiki": "지능 검사",
+       "explainImg": "duo/img/psy7-p41-slide.jpg"
       },
       {
        "id": "u7f-05",
@@ -1539,7 +1625,8 @@
        "explain": "**심적 정형술** — 비네는 생득 지능 측정이 아니라 도움이 필요한 아동 선별·지원을 목표로 했다.",
        "src": "7장 p.41",
        "diff": 2,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "지능 검사",
+       "explainImg": "duo/img/psy7-p41-slide.jpg"
       },
       {
        "id": "u7f-06",
@@ -1552,7 +1639,8 @@
        ],
        "explain": "**스탠퍼드-비네 검사 (Stanford-Binet)** — **루이스 터먼 (Lewis Terman)**. 교수: 1차 세계대전 병력 선별에도 사용",
        "src": "7장 p.42",
-       "wiki": "스탠퍼드-비네 검사"
+       "wiki": "스탠퍼드-비네 검사",
+       "explainImg": "duo/img/psy7-p42-slide.jpg"
       },
       {
        "id": "u7f-07",
@@ -1568,7 +1656,8 @@
        "explain": "IQ = 정신 연령 ÷ 생활 연령 × 100. $\\frac{10}{8}\\times 100 = 125$. (오답 ② 80: 생활 연령/정신 연령으로 뒤집어 계산한 값($\\frac{8}{10}\\times100$)이다.)",
        "src": "7장 p.42",
        "diff": 1,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "스탠퍼드-비네 검사",
+       "explainImg": "duo/img/psy7-p42-slide.jpg"
       },
       {
        "id": "u7f-08",
@@ -1579,7 +1668,8 @@
        "wiki": "스탠퍼드-비네 검사",
        "answer": 120,
        "unit": "",
-       "tol": 0
+       "tol": 0,
+       "explainImg": "duo/img/psy7-p42-slide.jpg"
       },
       {
        "id": "u7f-09",
@@ -1592,7 +1682,8 @@
        ],
        "explain": "**웩슬러 성인용 지능 검사 (WAIS)** — 교수: 다중지능 입장과 비슷, 요즘 많이 활용(약 1시간 반)",
        "src": "7장 p.43",
-       "wiki": "웩슬러 성인용 지능 검사"
+       "wiki": "웩슬러 성인용 지능 검사",
+       "explainImg": "duo/img/psy7-p43-slide.jpg"
       },
       {
        "id": "u7f-10",
@@ -1607,7 +1698,8 @@
        "src": "7장 p.44",
        "diff": 1,
        "prof": true,
-       "wiki": "표준화"
+       "wiki": "표준화",
+       "explainImg": "duo/img/psy7-p44-slide.jpg"
       },
       {
        "id": "u7f-11",
@@ -1624,7 +1716,8 @@
        "src": "7장 p.44–45",
        "diff": 2,
        "prof": true,
-       "wiki": "표준화"
+       "wiki": "표준화",
+       "explainImg": "duo/img/psy7-p45-slide.jpg"
       },
       {
        "id": "u7f-12",
@@ -1637,7 +1730,8 @@
        ],
        "explain": "**검사-재검사 신뢰도 (test-retest reliability)** — **동일 검사를 반복** 실시해도 유사한 점수가 나오는지로 확인하는 신뢰도",
        "src": "7장 p.46",
-       "wiki": "신뢰도"
+       "wiki": "신뢰도",
+       "explainImg": "duo/img/psy7-p46-slide.jpg"
       },
       {
        "id": "u7f-13",
@@ -1653,7 +1747,8 @@
        "explain": "신뢰도 2종 = 검사-재검사 + 반분 — 교수: 「두 가지가 모두 갖춰져야」. split-half reliability. (오답 ① 검사-재검사 신뢰도: 같은 검사를 **반복** 실시해 비교한다.)",
        "src": "7장 p.46",
        "diff": 1,
-       "wiki": "신뢰도"
+       "wiki": "신뢰도",
+       "explainImg": "duo/img/psy7-p46-slide.jpg"
       },
       {
        "id": "u7f-14",
@@ -1667,7 +1762,8 @@
        "explain": "**예측 타당도** — 타당도의 하위 유형(신뢰도 하위 = 검사-재검사·반분).",
        "src": "7장 p.47",
        "diff": 2,
-       "wiki": "타당도"
+       "wiki": "타당도",
+       "explainImg": "duo/img/psy7-p47-slide.jpg"
       },
       {
        "id": "u7f-15",
@@ -1676,7 +1772,8 @@
        "explain": "아니다. 무관한 문항으로 만들어도 점수는 일관될 수 있다(신뢰도↑, 타당도↓). 신뢰도는 타당도의 필요조건일 뿐.",
        "src": "7장 p.47",
        "wiki": "타당도",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy7-p47-slide.jpg"
       },
       {
        "id": "u7f-16",
@@ -1693,7 +1790,8 @@
        "src": "7장 p.47",
        "diff": 2,
        "prof": true,
-       "wiki": "7장 사고와 언어 그리고 지능"
+       "wiki": "타당도",
+       "explainImg": "duo/img/psy7-p47-slide.jpg"
       },
       {
        "id": "u7f-17",
@@ -1710,7 +1808,8 @@
        ],
        "answer": 0,
        "img": "duo/img/psy7-p45-normal.png",
-       "imgAlt": "웩슬러 지능검사 점수의 종 모양 분포"
+       "imgAlt": "웩슬러 지능검사 점수의 종 모양 분포",
+       "explainImg": "duo/img/psy7-p44-slide.jpg"
       }
      ]
     }
@@ -1768,7 +1867,8 @@
        "src": "8장 p.2",
        "diff": 1,
        "prof": true,
-       "wiki": "동기"
+       "wiki": "동기",
+       "explainImg": "duo/img/psy8-p2-slide.jpg"
       },
       {
        "id": "u8a-02",
@@ -1782,7 +1882,8 @@
        "explain": "**본능 (instinct)** — 교수 예: 신생아가 손에 쥐여 주면 꼭 쥐고, 뺨에 닿으면 그쪽으로 고개를 돌림",
        "src": "8장 p.2",
        "prof": true,
-       "wiki": "본능"
+       "wiki": "본능",
+       "explainImg": "duo/img/psy8-p2-slide.jpg"
       },
       {
        "id": "u8a-03",
@@ -1799,7 +1900,8 @@
        "src": "8장 p.2",
        "diff": 2,
        "prof": true,
-       "wiki": "8장 동기와 정서"
+       "wiki": "본능",
+       "explainImg": "duo/img/psy8-p2-slide.jpg"
       },
       {
        "id": "u8a-04",
@@ -1813,7 +1915,8 @@
        "explain": "**추동(Drive)** — 추동 감소 이론의 핵심.",
        "src": "8장 p.3",
        "diff": 1,
-       "wiki": "추동"
+       "wiki": "추동",
+       "explainImg": "duo/img/psy8-p3-slide.jpg"
       },
       {
        "id": "u8a-05",
@@ -1826,7 +1929,8 @@
         "욕구 (음식 결핍)",
         "추동 (배고픔)",
         "추동 감소 행동 (먹기)"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p3-slide.jpg"
       },
       {
        "id": "u8a-06",
@@ -1842,7 +1946,8 @@
        "explain": "추동 감소는 항상성 유지의 핵심 기제. 생리적 욕구 → 추동 → 추동을 줄이는 행동. (오답 ② 각성 이론: 최적 각성 수준을 찾는 것이 목표 — 호기심·탐험 설명용.)",
        "src": "8장 p.3",
        "diff": 1,
-       "wiki": "추동 감소 이론"
+       "wiki": "추동 감소 이론",
+       "explainImg": "duo/img/psy8-p3-slide.jpg"
       },
       {
        "id": "u8a-07",
@@ -1856,7 +1961,8 @@
        "explain": "**항상성** — 추동 감소는 항상성 유지의 핵심 기제.",
        "src": "8장 p.3",
        "diff": 1,
-       "wiki": "항상성"
+       "wiki": "항상성",
+       "explainImg": "duo/img/psy8-p3-slide.jpg"
       },
       {
        "id": "u8a-08",
@@ -1870,7 +1976,8 @@
        "explain": "**유인자극(Incentive)** — 욕구(push)와 동시에 있으면 추동 강화(pull).",
        "src": "8장 p.4",
        "diff": 1,
-       "wiki": "유인자극"
+       "wiki": "유인자극",
+       "explainImg": "duo/img/psy8-p4-slide.jpg"
       },
       {
        "id": "u8a-09",
@@ -1886,7 +1993,8 @@
        "explain": "push = 욕구(내부), pull = 유인자극(외부). p.4 결론 — 동기는 생리 × 환경의 상호작용. (오답 ② 유인자극은 생리적 요인일 뿐 환경의 영향을 받지 않는다: 유인자극은 **환경**의 영향을 받는다.)",
        "src": "8장 p.4",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "유인자극",
+       "explainImg": "duo/img/psy8-p4-slide.jpg"
       },
       {
        "id": "u8a-10",
@@ -1895,7 +2003,8 @@
        "explain": "맞다. push = 내적 **욕구**(생리), pull = 외적 **유인자극**(환경). 둘이 동시에 있으면 추동이 더 강해진다.",
        "src": "8장 p.4, 8",
        "wiki": "유인자극",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy8-p4-slide.jpg"
       },
       {
        "id": "u8a-11",
@@ -1908,7 +2017,8 @@
        ],
        "explain": "**각성 이론 (arousal theory)** — 감각 추구 성향(Zuckerman, 2009)",
        "src": "8장 p.5–6, 8",
-       "wiki": "각성 이론"
+       "wiki": "각성 이론",
+       "explainImg": "duo/img/psy8-p6-slide.jpg"
       },
       {
        "id": "u8a-12",
@@ -1924,7 +2034,8 @@
        "explain": "'추동 감소로 설명하기 어렵다 → 각성 이론' 형식의 전형. 각성의 **증진**으로도 동기가 생긴다 — 최적 각성 추구(감각 추구, Zuckerman). (오답 ① 추동 감소 이론: 각성(긴장)을 **낮추는** 방향만 설명해 자극 추구를 설명하기 어렵다.)",
        "src": "8장 p.5–6",
        "diff": 1,
-       "wiki": "각성 이론"
+       "wiki": "각성 이론",
+       "explainImg": "duo/img/psy8-p5-slide.jpg"
       },
       {
        "id": "u8a-13",
@@ -1937,7 +2048,8 @@
        ],
        "explain": "**여키스-닷슨 법칙 (Yerkes-Dodson law, 1908)** — Hembree(1988) 시험 불안 연구",
        "src": "8장 p.5–6",
-       "wiki": "여키스-닷슨 법칙"
+       "wiki": "여키스-닷슨 법칙",
+       "explainImg": "duo/img/psy8-p6-slide.jpg"
       },
       {
        "id": "u8a-14",
@@ -1953,7 +2065,8 @@
        "explain": "어려운 시험일수록 긴장을 낮춰야 한다. 역U자 + 어려운 과제 = 낮은 각성(Hembree, 1988). (오답 ① 각성이 높을수록 수행이 직선적으로 높아진다: 역U자 관계이지 직선이 아니다.)",
        "src": "8장 p.6",
        "diff": 2,
-       "wiki": "여키스-닷슨 법칙"
+       "wiki": "여키스-닷슨 법칙",
+       "explainImg": "duo/img/psy8-p6-slide.jpg"
       },
       {
        "id": "u8a-15",
@@ -1962,7 +2075,8 @@
        "explain": "반대다. 적당한 각성이 최적(역U자)이며, **어려운 과제는 낮은 각성**에서 수행이 높다.",
        "src": "8장 p.6",
        "wiki": "여키스-닷슨 법칙",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p6-slide.jpg"
       },
       {
        "id": "u8a-16",
@@ -1988,7 +2102,8 @@
          "욕구 위계",
          "하위 욕구(생리)가 우선 충족"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p8-slide.jpg"
       },
       {
        "id": "u8a-17",
@@ -2005,7 +2120,8 @@
        ],
        "answer": 0,
        "img": "duo/img/psy8-p3-drive-q.png",
-       "imgAlt": "욕구 → (가림) → 추동감소 행동 도식"
+       "imgAlt": "욕구 → (가림) → 추동감소 행동 도식",
+       "explainImg": "duo/img/psy8-p3-slide.jpg"
       },
       {
        "id": "u8a-18",
@@ -2022,7 +2138,8 @@
         "여키스 닷슨"
        ],
        "img": "duo/img/psy8-p6-yd-q.png",
-       "imgAlt": "각성 수준(가로)과 수행(세로)의 역U자 곡선, 제목은 가림"
+       "imgAlt": "각성 수준(가로)과 수행(세로)의 역U자 곡선, 제목은 가림",
+       "explainImg": "duo/img/psy8-p6-slide.jpg"
       },
       {
        "id": "u8a-19",
@@ -2038,7 +2155,8 @@
         "생리적욕구"
        ],
        "img": "duo/img/psy8-p7-maslow-q.png",
-       "imgAlt": "욕구 위계 피라미드, 맨 아래 칸 이름은 가림"
+       "imgAlt": "욕구 위계 피라미드, 맨 아래 칸 이름은 가림",
+       "explainImg": "duo/img/psy8-p7-slide.jpg"
       }
      ]
     },
@@ -2079,7 +2197,8 @@
        ],
        "explain": "**앤슬 키스 (Ancel Keys, 1950)** — 생리적 욕구가 상위 욕구를 밀어낸다(매슬로우 근거)",
        "src": "8장 p.9",
-       "wiki": "8장 동기와 정서"
+       "wiki": "매슬로우의 욕구 위계",
+       "explainImg": "duo/img/psy8-p9-slide.jpg"
       },
       {
        "id": "u8b-02",
@@ -2095,7 +2214,8 @@
        "explain": "매슬로우 위계(생리적 욕구 우선)의 근거. 슬라이드 그대로 — 생리적 욕구의 강력함. (오답 ① 사회적 관계에 대한 욕구가 더 커졌다: 반대 — 다른 것에는 무관심해졌다.)",
        "src": "8장 p.9",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "매슬로우의 욕구 위계",
+       "explainImg": "duo/img/psy8-p9-slide.jpg"
       },
       {
        "id": "u8b-03",
@@ -2110,7 +2230,8 @@
        ],
        "explain": "**캐넌 & 워시번 (Cannon & Washburn, 1912)** — 그러나 위가 제거된 쥐도 배고픔을 느낌(Tsang)",
        "src": "8장 p.10",
-       "wiki": "8장 동기와 정서"
+       "wiki": "위 수축 실험",
+       "explainImg": "duo/img/psy8-p10-slide.jpg"
       },
       {
        "id": "u8b-04",
@@ -2119,7 +2240,8 @@
        "explain": "아니다. 위가 제거된 쥐도 계속 배고픔을 느낀다(Tsang) → 혈당·시상하부·호르몬 같은 화학적 기제가 있다.",
        "src": "8장 p.10",
        "wiki": "위 수축 실험",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p10-slide.jpg"
       },
       {
        "id": "u8b-05",
@@ -2128,7 +2250,8 @@
        "explain": "같은 사람(Walter Cannon)이다 — 위 수축 실험(Cannon & Washburn)과 캐넌-바드 이론 양쪽에 등장한다.",
        "src": "8장 p.10, 29",
        "wiki": "캐넌-바드 이론",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy8-p10-slide.jpg"
       },
       {
        "id": "u8b-06",
@@ -2141,7 +2264,8 @@
        ],
        "explain": "**시상하부 (hypothalamus)** — 혈액 내 화학적 변화를 감지해 배고픔을 조절하는 두뇌 영역 — 손상 시 굶주린 동물도 먹이에 관심 없음",
        "src": "8장 p.11–12",
-       "wiki": "시상하부"
+       "wiki": "시상하부",
+       "explainImg": "duo/img/psy8-p12-slide.jpg"
       },
       {
        "id": "u8b-07",
@@ -2157,7 +2281,8 @@
        "explain": "촉진 부위 손상 → 무관심, 억제 중추 손상 → 멈추지 못함. Duggan & Booth(1986) — 억제가 안 되니 계속 먹는다. (오답 ① 굶주려도 먹이에 관심을 보이지 않는다: 식욕 **촉진** 부위(시상하부) 손상 시의 결과다.)",
        "src": "8장 p.12",
        "diff": 3,
-       "wiki": "8장 동기와 정서"
+       "wiki": "식욕 관련 호르몬",
+       "explainImg": "duo/img/psy8-p12-slide.jpg"
       },
       {
        "id": "u8b-08",
@@ -2171,7 +2296,8 @@
        "explain": "**그렐린** — 반대로 PYY(소화관)·렙틴(지방세포)은 배고픔을 줄인다.",
        "src": "8장 p.13",
        "diff": 1,
-       "wiki": "그렐린"
+       "wiki": "그렐린",
+       "explainImg": "duo/img/psy8-p13-slide.jpg"
       },
       {
        "id": "u8b-09",
@@ -2183,7 +2309,8 @@
        ],
        "explain": "**PYY** — **소화관**에서 분비되어 뇌에 '배가 고프지 않다' 신호",
        "src": "8장 p.13",
-       "wiki": "8장 동기와 정서"
+       "wiki": "식욕 관련 호르몬",
+       "explainImg": "duo/img/psy8-p13-slide.jpg"
       },
       {
        "id": "u8b-10",
@@ -2197,7 +2324,8 @@
        "explain": "**렙틴** — '지방이 충분하다, 이제 그만'.",
        "src": "8장 p.13",
        "diff": 1,
-       "wiki": "렙틴"
+       "wiki": "렙틴",
+       "explainImg": "duo/img/psy8-p13-slide.jpg"
       },
       {
        "id": "u8b-11",
@@ -2223,7 +2351,8 @@
          "렙틴",
          "지방세포 — 배고픔 감소"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p13-slide.jpg"
       },
       {
        "id": "u8b-12",
@@ -2239,7 +2368,8 @@
        "explain": "촉진 = 그렐린·오렉신, 억제 = PYY·렙틴. p.13 그대로. (오답 ① 렙틴 — 위 — '배고프다': 렙틴은 **지방세포**에서 분비되어 배고픔을 **감소**시킨다.)",
        "src": "8장 p.12–13",
        "diff": 2,
-       "wiki": "식욕 관련 호르몬"
+       "wiki": "식욕 관련 호르몬",
+       "explainImg": "duo/img/psy8-p13-slide.jpg"
       },
       {
        "id": "u8b-13",
@@ -2254,7 +2384,8 @@
        "explain": "**조절점(set point)** — 기초대사율과 함께 일정 체중으로 회귀.",
        "src": "8장 p.14",
        "diff": 1,
-       "wiki": "조절점"
+       "wiki": "조절점",
+       "explainImg": "duo/img/psy8-p14-slide.jpg"
       },
       {
        "id": "u8b-14",
@@ -2270,7 +2401,8 @@
        "explain": "사람은 일정한 체중을 유지하려는 경향(체중의 항상성)이 있다. 체중이 조절점 아래로 가면 배고픔↑·기초대사율↓ → 조절점으로 회귀. (오답 ① 여키스-닷슨 법칙: 각성과 수행의 관계다.)",
        "src": "8장 p.14",
        "diff": 1,
-       "wiki": "조절점"
+       "wiki": "조절점",
+       "explainImg": "duo/img/psy8-p14-slide.jpg"
       },
       {
        "id": "u8b-15",
@@ -2284,7 +2416,8 @@
        ],
        "explain": "**낯섦 공포증 (새것 공포증, neophobia)** — 서양권의 두족류·해조류 혐오 — **이전에 먹은 적 없는 음식**을 기피하는 경향 — 낯선 음식은 독이 있을 수 있다는 판단",
        "src": "8장 p.17",
-       "wiki": "낯섦 공포증"
+       "wiki": "낯섦 공포증",
+       "explainImg": "duo/img/psy8-p17-slide.jpg"
       },
       {
        "id": "u8b-16",
@@ -2300,7 +2433,8 @@
        "explain": "맛 선호 = 생물학적 + 문화적 요인. 단맛·짠맛만 유전·보편이고, 나머지는 **조건형성**된 부분이 있다. (오답 ① 단맛과 짠맛에 대한 선호는 유전적이며 보편적이다: 옳다.)",
        "src": "8장 p.16",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "낯섦 공포증",
+       "explainImg": "duo/img/psy8-p16-slide.jpg"
       }
      ]
     },
@@ -2343,7 +2477,8 @@
        ],
        "explain": "**소속 욕구 / 친애 욕구 (need to belong / affiliation need)** — **Baumeister & Leary (1995)**",
        "src": "8장 p.19",
-       "wiki": "소속 욕구"
+       "wiki": "소속 욕구",
+       "explainImg": "duo/img/psy8-p19-slide.jpg"
       },
       {
        "id": "u8c-02",
@@ -2359,7 +2494,8 @@
        "explain": "**내집단 편향(ingroup bias)** — 사회적 정체성은 건강·안녕감을 증진.",
        "src": "8장 p.20",
        "diff": 1,
-       "wiki": "내집단 편향"
+       "wiki": "내집단 편향",
+       "explainImg": "duo/img/psy8-p20-slide.jpg"
       },
       {
        "id": "u8c-03",
@@ -2372,7 +2508,8 @@
        ],
        "explain": "**자기 결정 이론 (Self-Determination Theory)** — 교재: Deci & Ryan",
        "src": "8장 p.21",
-       "wiki": "자기 결정 이론"
+       "wiki": "자기 결정 이론",
+       "explainImg": "duo/img/psy8-p21-slide.jpg"
       },
       {
        "id": "u8c-04",
@@ -2388,7 +2525,8 @@
        "explain": "유·자·관. Self-Determination Theory — 충족 시 스트레스 감소·자존감 고양. (오답 ① 생리 · 안전 · 소속: 매슬로우 위계의 하위 단계다.)",
        "src": "8장 p.21",
        "diff": 1,
-       "wiki": "자기 결정 이론"
+       "wiki": "자기 결정 이론",
+       "explainImg": "duo/img/psy8-p21-slide.jpg"
       },
       {
        "id": "u8c-05",
@@ -2407,7 +2545,8 @@
         "편도체",
         "선순환",
         "시상하부"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p22-slide.jpg"
       },
       {
        "id": "u8c-06",
@@ -2421,7 +2560,8 @@
        ],
        "explain": "**사회적 배척 / 추방 (ostracism)** — 실제 고통과 유사 — 사회성 저하 → 다시 추방되는 **악순환**, 자기파괴·공격적 행동 증가",
        "src": "8장 p.22–23",
-       "wiki": "사회적 배척"
+       "wiki": "사회적 배척",
+       "explainImg": "duo/img/psy8-p23-slide.jpg"
       },
       {
        "id": "u8c-07",
@@ -2437,7 +2577,8 @@
        "explain": "anterior cingulate cortex(ACC). Rotge et al.(2015) — 사회적 배척의 고통 ≈ 신체적 고통. (오답 ① 편도체: 정서(공포) 회로의 중추로, 슬라이드가 이 연구에서 든 영역이 아니다.)",
        "src": "8장 p.22",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "사회적 배척",
+       "explainImg": "duo/img/psy8-p22-slide.jpg"
       },
       {
        "id": "u8c-08",
@@ -2453,7 +2594,8 @@
        "explain": "1장 연결: 상관 ≠ 인과. 그래서 결론은 '일장일단' — 상관만으로 인과를 단정할 수 없다. (오답 ② SNS가 우울을 일으킨다는 인과 관계가 실험으로 명확히 입증되었다: 실험 결과는 **비일관**이다.)",
        "src": "8장 p.25",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "자기노출",
+       "explainImg": "duo/img/psy8-p25-slide.jpg"
       },
       {
        "id": "u8c-09",
@@ -2462,7 +2604,8 @@
        "explain": "아니다. 사용 시간과 우울/불안은 **약한 정적 상관**이고 실험 연구는 **일관성이 떨어진다**(Haidt & Twenge) → 인과 단정 불가.",
        "src": "8장 p.25",
        "wiki": "사회적 배척",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p25-slide.jpg"
       },
       {
        "id": "u8c-10",
@@ -2475,7 +2618,8 @@
        ],
        "explain": "**자기노출 (self-disclosure)** — 동시에 자기애(나르시시즘) 촉진(Weiser)",
        "src": "8장 p.26",
-       "wiki": "자기노출"
+       "wiki": "자기노출",
+       "explainImg": "duo/img/psy8-p26-slide.jpg"
       },
       {
        "id": "u8c-11",
@@ -2488,7 +2632,8 @@
        ],
        "explain": "**성취 동기 (Achievement motivation)** — 중요한 성취를 달성하고 **높은 기준을 충족**시키려는 욕구 — 타고난 재능보다 수행을 더 잘 예측(Bloom)",
        "src": "8장 p.27",
-       "wiki": "성취 동기"
+       "wiki": "성취 동기",
+       "explainImg": "duo/img/psy8-p27-slide.jpg"
       },
       {
        "id": "u8c-12",
@@ -2503,7 +2648,8 @@
        "explain": "**그릿(불굴의 투지)** — 성실성·자기제어와 같은 개념이라는 비판도 있음.",
        "src": "8장 p.27",
        "diff": 1,
-       "wiki": "그릿"
+       "wiki": "그릿",
+       "explainImg": "duo/img/psy8-p27-slide.jpg"
       },
       {
        "id": "u8c-13",
@@ -2519,7 +2665,8 @@
        "explain": "그릿 = 불굴의 투지. p.27 그대로. (오답 ② 단기적 보상을 얻으려는 순간적 의지를 말한다: 그릿은 **장기적** 목표에 대한 것이다.)",
        "src": "8장 p.27",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "그릿",
+       "explainImg": "duo/img/psy8-p27-slide.jpg"
       },
       {
        "id": "u8c-14",
@@ -2535,7 +2682,8 @@
        "explain": "동기 형성 요인의 위치: 외부 = 외재적. 외부의 보상(용돈)에 연동해 형성. (오답 ① 내재적 동기: 수행 자체가 좋아서 형성되는 동기다.)",
        "src": "8장 p.27",
        "diff": 1,
-       "wiki": "내재적 동기와 외재적 동기"
+       "wiki": "내재적 동기와 외재적 동기",
+       "explainImg": "duo/img/psy8-p27-slide.jpg"
       },
       {
        "id": "u8c-15",
@@ -2548,7 +2696,8 @@
        ],
        "explain": "**외재적 동기 (extrinsic motivation)** — 예: 용돈을 받으려고 공부",
        "src": "8장 p.27",
-       "wiki": "내재적 동기와 외재적 동기"
+       "wiki": "내재적 동기와 외재적 동기",
+       "explainImg": "duo/img/psy8-p27-slide.jpg"
       },
       {
        "id": "u8c-16",
@@ -2557,7 +2706,8 @@
        "explain": "내재적 = 수행 자체가 좋아서, 외재적 = 외부 보상·처벌에 연동. 7장 창의성 요소에서도 내재적 동기가 창의성을 높인다고 했다.",
        "src": "8장 p.27",
        "wiki": "내재적 동기와 외재적 동기",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy8-p27-slide.jpg"
       }
      ]
     },
@@ -2602,7 +2752,8 @@
        ],
        "explain": "**제임스-랑게 이론 (James-Lange theory)** — 지지 근거: Damasio(2003), 얼굴·행동 피드백",
        "src": "8장 p.29, 33",
-       "wiki": "제임스-랑게 이론"
+       "wiki": "제임스-랑게 이론",
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-02",
@@ -2618,7 +2769,8 @@
        "explain": "'떨려서 무섭다' = 제임스-랑게. 신체 반응이 정서를 유발한다. (오답 ① 캐넌-바드 이론: 신체 반응과 정서가 **동시에** 독립적으로 생긴다.)",
        "src": "8장 p.29, 33",
        "diff": 1,
-       "wiki": "제임스-랑게 이론"
+       "wiki": "제임스-랑게 이론",
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-03",
@@ -2631,7 +2783,8 @@
         "자극 (숲에서 곰을 봄)",
         "신체 반응 (심장이 뛰고 몸이 떨림)",
         "정서 (두려움)"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-04",
@@ -2644,7 +2797,8 @@
        ],
        "explain": "**캐넌-바드 이론 (Cannon-Bard theory)** — 신체 반응과 정서는 **독립적으로 동시에** 발생 — 신체 반응은 정서마다 유사하고 변화가 느리다는 비판",
        "src": "8장 p.29, 33",
-       "wiki": "캐넌-바드 이론"
+       "wiki": "캐넌-바드 이론",
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-05",
@@ -2660,7 +2814,8 @@
        "explain": "캐넌-바드: 자극 → (신체 반응 ∥ 정서). p.29 비판 그대로. (오답 ② 정서는 반드시 인지적 이름 붙이기를 거쳐야 한다: 샥터-싱어 2요인 이론의 주장이다.)",
        "src": "8장 p.29",
        "diff": 2,
-       "wiki": "제임스-랑게 이론"
+       "wiki": "제임스-랑게 이론",
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-06",
@@ -2669,7 +2824,8 @@
        "explain": "그건 제임스-랑게다. 캐넌-바드는 신체 반응과 정서가 **독립적으로 동시에** 발생한다고 본다.",
        "src": "8장 p.29, 33",
        "wiki": "캐넌-바드 이론",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-07",
@@ -2688,7 +2844,8 @@
        "explain": "**샥터-싱어 2요인 이론** — 신체적 각성 + 이름 붙이기 = 정서.",
        "src": "8장 p.30",
        "diff": 2,
-       "wiki": "샥터-싱어 2요인 이론"
+       "wiki": "샥터-싱어 2요인 이론",
+       "explainImg": "duo/img/psy8-p30-slide.jpg"
       },
       {
        "id": "u8d-08",
@@ -2704,7 +2861,8 @@
        "explain": "2요인 = 신체적 각성 + 인지적 이름 붙이기. 각성의 원인을 알면 정서로 '명명'하지 않는다 → 해석의 중요성. (오답 ① 고지받지 않은 집단보다 더 강한 정서를 느꼈다: 반대다.)",
        "src": "8장 p.30",
        "diff": 3,
-       "wiki": "8장 동기와 정서"
+       "wiki": "샥터-싱어 2요인 이론",
+       "explainImg": "duo/img/psy8-p30-slide.jpg"
       },
       {
        "id": "u8d-09",
@@ -2719,7 +2877,8 @@
        ],
        "explain": "**자이언스 (Zajonc) · 르두 (LeDoux)** — **정서 반응은 인지 기반 해석 없이도** 발생 가능 — 역치 하 점화로 탐구",
        "src": "8장 p.31, 33",
-       "wiki": "8장 동기와 정서"
+       "wiki": "자이언스·르두·라자루스의 입장",
+       "explainImg": "duo/img/psy8-p31-slide.jpg"
       },
       {
        "id": "u8d-10",
@@ -2735,7 +2894,8 @@
        "explain": "교재 용어: 단순 노출 효과. 신경학적 근거 = 아랫길. 자이언스·르두의 입장 — 역치 하 점화. (오답 ② 정서는 신체 반응으로부터 도출된다: 제임스-랑게 이론이다.)",
        "src": "8장 p.31",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "자이언스·르두·라자루스의 입장",
+       "explainImg": "duo/img/psy8-p31-slide.jpg"
       },
       {
        "id": "u8d-11",
@@ -2744,7 +2904,8 @@
        "explain": "슬라이드 p.31·33은 라자루스를 같은 묶음에 넣었지만, 교재에서 라자루스는 인지적 평가를 강조한 반대편이다. 대표는 **자이언스·르두**.",
        "src": "8장 p.31, 33",
        "wiki": "자이언스·르두·라자루스의 입장",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy8-p31-slide.jpg"
       },
       {
        "id": "u8d-12",
@@ -2759,7 +2920,8 @@
        "explain": "**신중한 윗길(high road)** — 아랫길(시상 → 편도체)과 대비.",
        "src": "8장 p.32",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "정서의 신경 회로",
+       "explainImg": "duo/img/psy8-p32-slide.jpg"
       },
       {
        "id": "u8d-13",
@@ -2773,7 +2935,8 @@
         "대뇌 피질",
         "편도체",
         "신체 반응"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p32-slide.jpg"
       },
       {
        "id": "u8d-14",
@@ -2789,7 +2952,8 @@
        "explain": "윗길 = 피질 경유(복잡·신중), 아랫길 = 피질 우회(빠름). 피질을 우회 — 즉각 반응, 의식적 자각을 못 할 수도 있다. (오답 ① 시상 → 대뇌 피질 → 편도체 → 신체: **신중한 윗길**이다.)",
        "src": "8장 p.32",
        "diff": 2,
-       "wiki": "편도체"
+       "wiki": "편도체",
+       "explainImg": "duo/img/psy8-p32-slide.jpg"
       },
       {
        "id": "u8d-15",
@@ -2805,7 +2969,8 @@
        "explain": "제임스-랑게(신체 → 정서) / 캐넌-바드(동시) / 2요인(각성 + 평가) / 자이언스·르두(즉각). 이것은 **캐넌-바드**의 설명이다. 샥터-싱어 = 신체적 각성 + 의식적 인지 평가. (오답 ① 제임스-랑게 — 정서는 자극에 대한 신체 반응으로부터 도출: 옳다.)",
        "src": "8장 p.33",
        "diff": 3,
-       "wiki": "8장 동기와 정서"
+       "wiki": "샥터-싱어 2요인 이론",
+       "explainImg": "duo/img/psy8-p33-slide.jpg"
       },
       {
        "id": "u8d-16",
@@ -2813,7 +2978,7 @@
        "q": "정서 이론과 주장을 연결하시오",
        "explain": "p.33 요약표 그대로. 2요인 실험은 에피네프린 주사 + 고지 여부.",
        "src": "8장 p.33",
-       "wiki": "8장 동기와 정서",
+       "wiki": "샥터-싱어 2요인 이론",
        "pairs": [
         [
          "제임스-랑게",
@@ -2831,7 +2996,8 @@
          "자이언스·르두",
          "인지 없이도 정서 가능"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p33-slide.jpg"
       },
       {
        "id": "u8d-17",
@@ -2848,7 +3014,8 @@
        ],
        "answer": 0,
        "img": "duo/img/psy8-p29-jlcb-q.png",
-       "imgAlt": "자극→신체 반응→정서(왼쪽), 자극→신체 반응·정서 동시(오른쪽), 이론 이름은 가림"
+       "imgAlt": "자극→신체 반응→정서(왼쪽), 자극→신체 반응·정서 동시(오른쪽), 이론 이름은 가림",
+       "explainImg": "duo/img/psy8-p29-slide.jpg"
       },
       {
        "id": "u8d-18",
@@ -2865,7 +3032,8 @@
         "빠른아랫길"
        ],
        "img": "duo/img/psy8-p32-road-q.png",
-       "imgAlt": "두 머리 단면 — 왼쪽은 피질을 거치는 경로, 오른쪽은 시상에서 편도체로 직행, 경로 이름은 가림"
+       "imgAlt": "두 머리 단면 — 왼쪽은 피질을 거치는 경로, 오른쪽은 시상에서 편도체로 직행, 경로 이름은 가림",
+       "explainImg": "duo/img/psy8-p32-slide.jpg"
       }
      ]
     },
@@ -2903,7 +3071,8 @@
        ],
        "explain": "**비언어적 의사소통 (nonverbal communication)** — 부정적 정서 탐지는 생득적(Burris)",
        "src": "8장 p.34",
-       "wiki": "비언어적 의사소통"
+       "wiki": "비언어적 의사소통",
+       "explainImg": "duo/img/psy8-p34-slide.jpg"
       },
       {
        "id": "u8e-02",
@@ -2919,7 +3088,8 @@
        "explain": "정서 탐지 = 생득적 기반 + 경험의 영향. p.34 그대로. (오답 ① 부정적 정서 탐지 능력은 전적으로 학습된다: 슬라이드는 부정적 정서 탐지가 **생득적**이라고도 한다(Burris).)",
        "src": "8장 p.34",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "비언어적 의사소통",
+       "explainImg": "duo/img/psy8-p34-slide.jpg"
       },
       {
        "id": "u8e-03",
@@ -2933,7 +3103,8 @@
        ],
        "explain": "**Pollak & Kistler (2002)** — 학대받은 아동은 모호한 표정을 **분노**로 더 빨리 지각 — 경험에 따라 정서 탐지가 달라진다",
        "src": "8장 p.34",
-       "wiki": "8장 동기와 정서"
+       "wiki": "비언어적 의사소통",
+       "explainImg": "duo/img/psy8-p34-slide.jpg"
       },
       {
        "id": "u8e-04",
@@ -2942,7 +3113,8 @@
        "explain": "**분노**로 더 빨리 지각한다. 경험에 따라 정서 탐지 방식이 달라진다는 근거다.",
        "src": "8장 p.34",
        "wiki": "비언어적 의사소통",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p34-slide.jpg"
       },
       {
        "id": "u8e-05",
@@ -2951,7 +3123,8 @@
        "explain": "Costa et al.(2001): 여성이 더 감정에 개방적. 남성은 다소 단순한 정서 반응 기술(Barrett).",
        "src": "8장 p.35",
        "wiki": "비언어적 의사소통",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy8-p35-slide.jpg"
       },
       {
        "id": "u8e-06",
@@ -2965,7 +3138,8 @@
        ],
        "explain": "**에크만의 보편적 정서 (Ekman)** — 행복·슬픔·분노·공포·놀람·혐오. 단, **표출 수준**은 문화차",
        "src": "8장 p.36",
-       "wiki": "비언어적 의사소통"
+       "wiki": "비언어적 의사소통",
+       "explainImg": "duo/img/psy8-p36-slide.jpg"
       },
       {
        "id": "u8e-07",
@@ -2984,7 +3158,8 @@
         "4",
         "8",
         "종류"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p36-slide.jpg"
       },
       {
        "id": "u8e-08",
@@ -3000,7 +3175,8 @@
        "explain": "정서 자체 = 보편, 표출 수준·제스처 해석 = 문화차. 표출 **수준**은 문화권마다 다를 수 있다(Cordaro et al., 2018). (오답 ① 문화권에 관계없이 관찰되는 6개의 정서가 있다: 옳다.)",
        "src": "8장 p.36",
        "diff": 3,
-       "wiki": "8장 동기와 정서"
+       "wiki": "에크만의 기본 감정",
+       "explainImg": "duo/img/psy8-p36-slide.jpg"
       },
       {
        "id": "u8e-09",
@@ -3009,7 +3185,8 @@
        "explain": "맞다. 개인주의 문화권이 표출을 **장려**하고 집단주의 문화권은 **억제**한다(van Hemert).",
        "src": "8장 p.36",
        "wiki": "비언어적 의사소통",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy8-p36-slide.jpg"
       },
       {
        "id": "u8e-10",
@@ -3022,7 +3199,8 @@
        ],
        "explain": "**얼굴 피드백 효과 (facial feedback effect)** — Soussignan(2001)",
        "src": "8장 p.37",
-       "wiki": "얼굴 피드백 효과"
+       "wiki": "얼굴 피드백 효과",
+       "explainImg": "duo/img/psy8-p37-slide.jpg"
       },
       {
        "id": "u8e-11",
@@ -3038,7 +3216,8 @@
        "explain": "두 피드백 효과 모두 신체 → 정서 → 제임스-랑게 지지. 표정이 정서를 증폭·조절한다. (오답 ① 행동 피드백 효과: 걷는 자세처럼 **행동**이 정서를 조절하는 효과다 — 여기서는 표정 근육이다.)",
        "src": "8장 p.37",
        "diff": 1,
-       "wiki": "얼굴 피드백 효과"
+       "wiki": "얼굴 피드백 효과",
+       "explainImg": "duo/img/psy8-p37-slide.jpg"
       },
       {
        "id": "u8e-12",
@@ -3053,7 +3232,8 @@
        "explain": "**행동 피드백 효과**(Krahe et al., 2018) — 표정이면 얼굴 피드백 효과.",
        "src": "8장 p.37",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "얼굴 피드백 효과",
+       "explainImg": "duo/img/psy8-p37-slide.jpg"
       },
       {
        "id": "u8e-13",
@@ -3073,7 +3253,8 @@
         "제임스-랑게",
         "캐넌-바드",
         "언어"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p37-slide.jpg"
       },
       {
        "id": "u8e-14",
@@ -3099,7 +3280,8 @@
          "van Hemert",
          "집단주의 문화는 정서 표출 억제"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p36-slide.jpg"
       }
      ]
     },
@@ -3136,7 +3318,8 @@
        "explain": "**카타르시스** — 분노 행동은 분노를 더 폭증. 대처: 기다리기·다른 활동·거리 두기.",
        "src": "8장 p.38",
        "diff": 1,
-       "wiki": "카타르시스"
+       "wiki": "카타르시스",
+       "explainImg": "duo/img/psy8-p38-slide.jpg"
       },
       {
        "id": "u8f-02",
@@ -3152,7 +3335,8 @@
        "explain": "분노: Fight, 염증·테스토스테론↑, 카타르시스 X. p.38 — 분노에 입각한 행동은 분노를 더 폭증시킨다(Flack). (오답 ② 분노는 가능한 한 즉시 강하게 표출하는 것이 최선의 대처다: 대처법은 **기다리기·다른 활동·거리 두기**.)",
        "src": "8장 p.38",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "카타르시스",
+       "explainImg": "duo/img/psy8-p38-slide.jpg"
       },
       {
        "id": "u8f-03",
@@ -3161,7 +3345,8 @@
        "explain": "아니다. 일시적 해결책일 뿐 **부적응적** — 분노에 입각한 행동은 분노를 더 키운다.",
        "src": "8장 p.38",
        "wiki": "카타르시스",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p38-slide.jpg"
       },
       {
        "id": "u8f-04",
@@ -3178,7 +3363,8 @@
        "explain": "**기분 좋음, 선행 현상** — 역방향(남을 도우면 행복)도 성립.",
        "src": "8장 p.39",
        "diff": 2,
-       "wiki": "기분 좋음·선행 현상"
+       "wiki": "기분 좋음·선행 현상",
+       "explainImg": "duo/img/psy8-p39-slide.jpg"
       },
       {
        "id": "u8f-05",
@@ -3191,7 +3377,8 @@
        ],
        "explain": "**긍정심리학 (positive psychology)** — 교재: 셀리그먼 주도 — **주관적 안녕감**이 삶의 만족도에 미치는 영향을 탐구 — 20세기의 우울·불안 중심 연구와 차별",
        "src": "8장 p.40",
-       "wiki": "긍정심리학"
+       "wiki": "긍정심리학",
+       "explainImg": "duo/img/psy8-p40-slide.jpg"
       },
       {
        "id": "u8f-06",
@@ -3204,7 +3391,8 @@
        ],
        "explain": "**주관적 안녕감 (subjective well-being)** — 스스로 지각한 행복감·삶의 만족",
        "src": "8장 p.40",
-       "wiki": "8장 동기와 정서"
+       "wiki": "긍정심리학",
+       "explainImg": "duo/img/psy8-p40-slide.jpg"
       },
       {
        "id": "u8f-07",
@@ -3224,7 +3412,8 @@
         "낙관",
         "후회",
         "불안"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p40-slide.jpg"
       },
       {
        "id": "u8f-08",
@@ -3240,7 +3429,8 @@
        "explain": "긍정심리학 3기둥 = 긍정적 안녕감 · 긍정적 품성 · 긍정적 집단·사회·문화. p.40 그대로. (오답 ② 과거 — 낙관, 현재 — 만족, 미래 — 행복: 짝을 뒤섞은 함정이다.)",
        "src": "8장 p.40",
        "diff": 2,
-       "wiki": "긍정심리학"
+       "wiki": "긍정심리학",
+       "explainImg": "duo/img/psy8-p40-slide.jpg"
       },
       {
        "id": "u8f-09",
@@ -3257,7 +3447,8 @@
         "정서",
         "동기",
         "지능"
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p40-slide.jpg"
       },
       {
        "id": "u8f-10",
@@ -3266,7 +3457,8 @@
        "explain": "긍정심리학은 **주관적 안녕감**이 삶의 만족에 미치는 영향을 탐구하며, 우울·불안 중심의 20세기 연구와 차별화된다.",
        "src": "8장 p.40",
        "wiki": "긍정심리학",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy8-p40-slide.jpg"
       },
       {
        "id": "u8f-11",
@@ -3280,7 +3472,8 @@
        "explain": "**포만점(satiation point)** — Ruberton et al.(2016).",
        "src": "8장 p.41",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "긍정심리학",
+       "explainImg": "duo/img/psy8-p41-slide.jpg"
       },
       {
        "id": "u8f-12",
@@ -3296,7 +3489,8 @@
        "explain": "극단적 불평등은 해롭다. Ruberton et al.(2016). (오답 ① 수입이 늘수록 행복은 끝없이 비례해 증가한다: 일정 수준(포만점) 이후에는 늘지 않는다.)",
        "src": "8장 p.41",
        "diff": 2,
-       "wiki": "8장 동기와 정서"
+       "wiki": "긍정심리학",
+       "explainImg": "duo/img/psy8-p41-slide.jpg"
       },
       {
        "id": "u8f-13",
@@ -3309,7 +3503,8 @@
        ],
        "explain": "**지니계수 (Gini coefficient)** — Sommet et al.(2018). 사람들은 격차가 적은 것을 선호",
        "src": "8장 p.41",
-       "wiki": "8장 동기와 정서"
+       "wiki": "긍정심리학",
+       "explainImg": "duo/img/psy8-p41-slide.jpg"
       },
       {
        "id": "u8f-14",
@@ -3339,7 +3534,8 @@
          "지니계수",
          "소득 불평등 지표"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy8-p41-slide.jpg"
       }
      ]
     }
@@ -3392,7 +3588,8 @@
        "explain": "사건 쪽 이름 = 스트레스원, 몸·마음 쪽 이름 = 스트레스 반응, 전체 과정 = 스트레스. p.2 정의 그대로. (오답 ① 반응을 유발하는 사건 자체만을 가리킨다: 그것은 **스트레스원**이다. 스트레스는 사건과 반응을 모두 포함한다.)",
        "src": "9장 p.2",
        "diff": 1,
-       "wiki": "스트레스"
+       "wiki": "스트레스",
+       "explainImg": "duo/img/psy9-p2-slide.jpg"
       },
       {
        "id": "u9a-02",
@@ -3406,7 +3603,8 @@
        "explain": "**스트레스원(stressor)** — 반응 쪽은 스트레스 반응.",
        "src": "9장 p.2",
        "diff": 1,
-       "wiki": "스트레스원"
+       "wiki": "스트레스원",
+       "explainImg": "duo/img/psy9-p2-slide.jpg"
       },
       {
        "id": "u9a-03",
@@ -3420,7 +3618,8 @@
        "explain": "**스트레스 평가** — 교수: '지금 벌어지고 있는 일들을 어떻게 받아들이냐'. 8장 라자루스 인지 평가와 같은 축",
        "src": "9장 p.3",
        "prof": true,
-       "wiki": "스트레스"
+       "wiki": "스트레스",
+       "explainImg": "duo/img/psy9-p3-slide.jpg"
       },
       {
        "id": "u9a-04",
@@ -3436,7 +3635,8 @@
        "explain": "교수는 8장 각성 이론(최적 각성)과 연결해 설명했다. 오히려 스트레스를 받지 않는 사람은 **무기력함**을 보고하는 경우가 많다(Ng & Feldman, 2009). (오답 ② 같은 사건이라도 위협으로 받아들이느냐 도전으로 받아들이느냐에 따라 반응이 달라진다: 옳다 — 스트레스 평가의 핵심.)",
        "src": "9장 p.3",
        "diff": 2,
-       "wiki": "스트레스"
+       "wiki": "스트레스",
+       "explainImg": "duo/img/psy9-p3-slide.jpg"
       },
       {
        "id": "u9a-05",
@@ -3462,7 +3662,8 @@
          "접근-접근 갈등",
          "짜장 vs 짬뽕"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p4-slide.jpg"
       },
       {
        "id": "u9a-06",
@@ -3475,7 +3676,8 @@
        ],
        "explain": "**재앙적 사건** — 카트리나 이후 자살률 급증, 9·11 반복 시청 → 2~3년 뒤 건강 악화, 강제 이주",
        "src": "9장 p.4",
-       "wiki": "재앙적 사건"
+       "wiki": "재앙적 사건",
+       "explainImg": "duo/img/psy9-p4-slide.jpg"
       },
       {
        "id": "u9a-07",
@@ -3489,7 +3691,8 @@
        "explain": "**일상적 다툼 (daily hassles)** — '일이 힘든 건 참는데 사람이 힘든 건 못 참는다'",
        "src": "9장 p.6",
        "prof": true,
-       "wiki": "일상적 다툼"
+       "wiki": "일상적 다툼",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-08",
@@ -3505,7 +3708,8 @@
        "explain": "스트레스원 3종: 재앙적 사건 / 삶의 변화 / 일상적 다툼. 대규모 재해로 인한 강제 이주는 **재앙적 사건** 쪽이다(Pipher). (오답 ① 재앙적 사건 — 9·11 테러 장면을 미디어로 반복 시청: 옳다 — **간접 노출**도 2~3년 뒤 건강 악화를 예측(Silver et al.).)",
        "src": "9장 p.4–6",
        "diff": 2,
-       "wiki": "스트레스원"
+       "wiki": "스트레스원",
+       "explainImg": "duo/img/psy9-p4-slide.jpg"
       },
       {
        "id": "u9a-09",
@@ -3514,7 +3718,8 @@
        "explain": "아니다. 행복한 사건도 각성을 일으켜 스트레스원이 될 수 있다(p.5). 변화가 동시다발일수록 더 위험하다.",
        "src": "9장 p.5",
        "wiki": "심각한 삶의 변화",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p5-slide.jpg"
       },
       {
        "id": "u9a-10",
@@ -3527,7 +3732,8 @@
        ],
        "explain": "**레빈 (Lewin)** — 접근·회피 동기 사이의 **갈등 3유형**을 제시 (1935)",
        "src": "9장 p.6",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "접근-회피 갈등",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-11",
@@ -3542,7 +3748,8 @@
        "explain": "**접근-회피 갈등** — 레빈(1935). 교수: 선택지 하나에 대한 양가감정.",
        "src": "9장 p.6",
        "diff": 1,
-       "wiki": "접근-회피 갈등"
+       "wiki": "접근-회피 갈등",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-12",
@@ -3551,7 +3758,8 @@
        "explain": "아니다. 접근-회피는 **한 대상**에 매력과 혐오가 **함께** 있는 것(맛있지만 살찌는 케이크). 두 선택지 사이 갈등은 접근-접근·회피-회피.",
        "src": "9장 p.6",
        "wiki": "접근-회피 갈등",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-13",
@@ -3564,7 +3772,8 @@
        "explain": "**회피-회피 갈등** — **둘 다 싫은** 선택지 사이의 갈등. 교수 예: 수강신청 '죽음의 이지선다' — 팀플 수업 vs 시험 빡센 수업",
        "src": "9장 p.6",
        "prof": true,
-       "wiki": "회피-회피 갈등"
+       "wiki": "회피-회피 갈등",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-14",
@@ -3581,7 +3790,8 @@
        "src": "9장 p.6",
        "diff": 1,
        "prof": true,
-       "wiki": "회피-회피 갈등"
+       "wiki": "회피-회피 갈등",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-15",
@@ -3598,7 +3808,8 @@
        "src": "9장 p.6",
        "diff": 2,
        "prof": true,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "접근-접근 갈등",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       },
       {
        "id": "u9a-16",
@@ -3615,7 +3826,8 @@
        "src": "9장 p.7",
        "diff": 2,
        "prof": true,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "코르티솔",
+       "explainImg": "duo/img/psy9-p7-slide.jpg"
       },
       {
        "id": "u9a-17",
@@ -3631,7 +3843,8 @@
         "일상적다툼"
        ],
        "img": "duo/img/psy9-p6-stressor-q.png",
-       "imgAlt": "재앙적인 사건·심각한 삶의 변화·(가림) 세 원"
+       "imgAlt": "재앙적인 사건·심각한 삶의 변화·(가림) 세 원",
+       "explainImg": "duo/img/psy9-p6-slide.jpg"
       }
      ]
     },
@@ -3677,7 +3890,8 @@
        "explain": "**투쟁 혹은 도피(fight or flight) 반응** — 에피네프린·노르에피네프린.",
        "src": "9장 p.8",
        "diff": 1,
-       "wiki": "투쟁-도피 반응"
+       "wiki": "투쟁-도피 반응",
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-02",
@@ -3690,7 +3904,8 @@
        ],
        "explain": "**캐넌 (Cannon)** — 8장 캐넌-바드 이론의 그 캐넌 — **투쟁 혹은 도피** 반응 (1929)",
        "src": "9장 p.8",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "투쟁-도피 반응",
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-03",
@@ -3703,7 +3918,8 @@
        ],
        "explain": "**코르티솔 (cortisol)** — 교수: '다소 느린 반응', 유사 상황 재발에 대비하는 장기 관리 전략",
        "src": "9장 p.8",
-       "wiki": "코르티솔"
+       "wiki": "코르티솔",
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-04",
@@ -3719,7 +3935,8 @@
        "explain": "빠른 = 교감신경 → 에피네프린·노르에피네프린 → 투쟁-도피 / 느린 = 부신 피질 → 코르티솔. p.8 빠른 경로(Cannon, 1929). (오답 ① 코르티솔은 부신 수질에서 분비되어 즉각적인 위협에 대처하게 한다: 코르티솔은 부신 **피질**, **다소 장기적인** 전략 수립.)",
        "src": "9장 p.8",
        "diff": 2,
-       "wiki": "스트레스"
+       "wiki": "스트레스",
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-05",
@@ -3739,7 +3956,8 @@
         "도파민",
         "세로토닌",
         "렙틴"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-06",
@@ -3756,7 +3974,8 @@
        "src": "9장 p.8",
        "diff": 1,
        "prof": true,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "코르티솔",
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-07",
@@ -3765,7 +3984,8 @@
        "explain": "맞다. 슬라이드 기준 코르티솔 = 부신 **피질**(수질로 바꾼 보기에 주의). 에피네프린·노르에피네프린 계통이 교감신경계 쪽이다.",
        "src": "9장 p.8",
        "wiki": "코르티솔",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy9-p8-slide.jpg"
       },
       {
        "id": "u9b-08",
@@ -3774,7 +3994,8 @@
        "explain": "투쟁-도피 = **캐넌(1929)**. 셀리에는 일반 적응 증후군(GAS).",
        "src": "9장 p.8–9",
        "wiki": "투쟁-도피 반응",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-09",
@@ -3790,7 +4011,8 @@
        "explain": "**일반 적응 증후군(GAS)**.",
        "src": "9장 p.9",
        "diff": 1,
-       "wiki": "일반 적응 증후군"
+       "wiki": "일반 적응 증후군",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-10",
@@ -3803,7 +4025,8 @@
        ],
        "explain": "**한스 셀리에 (Hans Selye)** — **일반 적응 증후군**(경고 → 저항 → 소진) (1936, 1976)",
        "src": "9장 p.9",
-       "wiki": "한스 셀리에"
+       "wiki": "한스 셀리에",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-11",
@@ -3817,7 +4040,8 @@
         "경고 반응",
         "저항",
         "소진"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-12",
@@ -3833,7 +4057,8 @@
        "explain": "한스 셀리에(1936, 1976). 만성화되면 소진. 셀리에의 3단계 순서. (오답 ② 저항 → 경고 반응 → 소진: 경고 반응이 **먼저**(스트레스원 직후 교감신경 활성화).)",
        "src": "9장 p.9",
        "diff": 1,
-       "wiki": "일반 적응 증후군"
+       "wiki": "일반 적응 증후군",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-13",
@@ -3848,7 +4073,8 @@
        ],
        "explain": "**경고 반응 (alarm)** — GAS **1단계** — 스트레스원 직후 교감신경계 활성화, 저항 체계 본격 발동 전 '일단 경고 받아서 시작'",
        "src": "9장 p.9",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "일반 적응 증후군",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-14",
@@ -3862,7 +4088,8 @@
        ],
        "explain": "**저항 (resistance)** — GAS **2단계** — 에피네프린·노르에피네프린 기반 반응이 폭발적으로 늘어 대처 자원을 **총동원**, 웬만한 압박에도 버팀",
        "src": "9장 p.9",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "일반 적응 증후군",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-15",
@@ -3878,7 +4105,8 @@
        "explain": "**소진 (exhaustion)** — GAS **3단계** — 2단계에서 자원을 다 써 바닥남 → 질병에 취약. 교수 예: 큰 시험 끝난 직후 몸살",
        "src": "9장 p.9",
        "prof": true,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "일반 적응 증후군",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-16",
@@ -3895,7 +4123,8 @@
        "src": "9장 p.9",
        "diff": 2,
        "prof": true,
-       "wiki": "일반 적응 증후군"
+       "wiki": "일반 적응 증후군",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       },
       {
        "id": "u9b-17",
@@ -3911,7 +4140,8 @@
         "탈진"
        ],
        "img": "duo/img/psy9-p9-gas-q.png",
-       "imgAlt": "스트레스 저항 수준이 1단계에 잠깐 떨어지고 2단계에 높게 유지되다 3단계에 급락하는 곡선"
+       "imgAlt": "스트레스 저항 수준이 1단계에 잠깐 떨어지고 2단계에 높게 유지되다 3단계에 급락하는 곡선",
+       "explainImg": "duo/img/psy9-p9-slide.jpg"
       }
      ]
     },
@@ -3952,7 +4182,8 @@
        ],
        "explain": "**행동의학 (behavioral medicine)** — 심리학과 **의학** 지식을 통합한 분야 (심리 요인이 건강에 미치는 영향 탐구)",
        "src": "9장 p.10",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "건강심리학",
+       "explainImg": "duo/img/psy9-p10-slide.jpg"
       },
       {
        "id": "u9c-02",
@@ -3965,7 +4196,8 @@
        ],
        "explain": "**건강심리학 (health psychology)** — 심리학 지식을 행동의학에 **제공**하는 심리학의 **하위 분야**",
        "src": "9장 p.10",
-       "wiki": "건강심리학"
+       "wiki": "건강심리학",
+       "explainImg": "duo/img/psy9-p10-slide.jpg"
       },
       {
        "id": "u9c-03",
@@ -3979,7 +4211,8 @@
        "explain": "**심리신경면역학(PNI)** — 건강심리학(하위 분야)·행동의학(통합 분야)과 구분.",
        "src": "9장 p.10",
        "diff": 2,
-       "wiki": "심리신경면역학"
+       "wiki": "심리신경면역학",
+       "explainImg": "duo/img/psy9-p10-slide.jpg"
       },
       {
        "id": "u9c-04",
@@ -3998,7 +4231,8 @@
         "적혈구",
         "촉진",
         "혈소판"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p11-slide.jpg"
       },
       {
        "id": "u9c-05",
@@ -4014,7 +4248,8 @@
        "explain": "p.11 네 가지: 림프구 억제 · 상처 지연 · 감기 취약 · 진행 촉진. 반대 — 림프구 방출을 **억제**한다(Maier et al., 1994). (오답 ① 상처 재생이 지연된다: 옳다(Kiecolt-Glaser) — 교수: 시험 앞두고 다치면 느리게 낫는다.)",
        "src": "9장 p.11",
        "diff": 2,
-       "wiki": "스트레스"
+       "wiki": "스트레스",
+       "explainImg": "duo/img/psy9-p11-slide.jpg"
       },
       {
        "id": "u9c-06",
@@ -4024,7 +4259,8 @@
        "src": "9장 p.12 🎙",
        "wiki": "스트레스와 암",
        "prof": true,
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p12-slide.jpg"
       },
       {
        "id": "u9c-07",
@@ -4041,7 +4277,8 @@
        "src": "9장 p.12",
        "diff": 2,
        "prof": true,
-       "wiki": "스트레스와 암"
+       "wiki": "스트레스와 암",
+       "explainImg": "duo/img/psy9-p12-slide.jpg"
       },
       {
        "id": "u9c-08",
@@ -4054,7 +4291,8 @@
        ],
        "explain": "**A 유형** — 9년 뒤 심장병 환자의 69% (Evans et al., 1987) — **경쟁적**이고 동기가 강하며 조급하고 **쉽게 화를 내는** 성격 — 심장병 위험 ↑",
        "src": "9장 p.14",
-       "wiki": "A 유형 성격"
+       "wiki": "A 유형 성격",
+       "explainImg": "duo/img/psy9-p14-slide.jpg"
       },
       {
        "id": "u9c-09",
@@ -4067,7 +4305,8 @@
        ],
        "explain": "**B 유형** — 상대적으로 **차분하고 태평한** 성격",
        "src": "9장 p.14",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "A 유형 성격",
+       "explainImg": "duo/img/psy9-p14-slide.jpg"
       },
       {
        "id": "u9c-10",
@@ -4083,7 +4322,8 @@
        "explain": "숫자: 9년, 69%. 교수: '부정적 정서랑 연합된 분노가 심혈관 건강을 잘 예측'. p.14 + Chida & Hamer. (오답 ② 9년 뒤 심장병 환자의 69%가 B 유형이었다: **A** 유형이다.)",
        "src": "9장 p.14",
        "diff": 2,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "A 유형 성격",
+       "explainImg": "duo/img/psy9-p14-slide.jpg"
       },
       {
        "id": "u9c-11",
@@ -4102,7 +4342,8 @@
         "5",
         "성실성",
         "경쟁심"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p14-slide.jpg"
       },
       {
        "id": "u9c-12",
@@ -4111,7 +4352,8 @@
        "explain": "아니다. 핵심 독성 요소는 **부정적 정서와 연합된 분노**다. 교수: '화병', '뒷목 잡는다'.",
        "src": "9장 p.14",
        "wiki": "A 유형 성격",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p14-slide.jpg"
       },
       {
        "id": "u9c-13",
@@ -4127,7 +4369,8 @@
        "explain": "p.14(A 유형 69%)와 p.15(비관 2배) 숫자를 섞지 말 것. Kubzansky et al.(2001). 교수: '두 배 가까이'. (오답 ① 다른 위험 요인을 통제하면 비관론자와 낙관론자의 차이는 사라졌다: 통제한 뒤에도 2배 차이가 남았다.)",
        "src": "9장 p.15",
        "diff": 2,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "설명 양식",
+       "explainImg": "duo/img/psy9-p15-slide.jpg"
       },
       {
        "id": "u9c-14",
@@ -4136,7 +4379,8 @@
        "explain": "p.16 요지: 스트레스는 질병을 직접 일으키기보다 생리 기제와 행동을 통해 **취약성**을 만든다.",
        "src": "9장 p.16",
        "wiki": "스트레스와 질병 취약성",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy9-p16-slide.jpg"
       },
       {
        "id": "u9c-15",
@@ -4162,7 +4406,8 @@
          "Chida & Hamer",
          "핵심 독성 요소는 분노"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p15-slide.jpg"
       }
      ]
     },
@@ -4206,7 +4451,8 @@
        "explain": "**문제중심 대처 (problem-focused coping)** — 예: 시험이 걱정 → 공부 계획 세우고 공부",
        "src": "9장 p.17",
        "prof": true,
-       "wiki": "문제중심 대처"
+       "wiki": "문제중심 대처",
+       "explainImg": "duo/img/psy9-p17-slide.jpg"
       },
       {
        "id": "u9d-02",
@@ -4224,7 +4470,8 @@
        "src": "9장 p.17",
        "diff": 1,
        "prof": true,
-       "wiki": "정서중심 대처"
+       "wiki": "정서중심 대처",
+       "explainImg": "duo/img/psy9-p17-slide.jpg"
       },
       {
        "id": "u9d-03",
@@ -4240,7 +4487,8 @@
        "explain": "슬라이드 예: 시험 걱정 → 공부 계획 = 문제중심. 문제 상황과 **직접 상호작용**(상황을 바꿀 수 있다고 판단). (오답 ① 정서중심 대처: 타인의 지지·보상으로 **기분**을 개선하는 쪽이다.)",
        "src": "9장 p.17",
        "diff": 1,
-       "wiki": "문제중심 대처"
+       "wiki": "문제중심 대처",
+       "explainImg": "duo/img/psy9-p17-slide.jpg"
       },
       {
        "id": "u9d-04",
@@ -4257,7 +4505,8 @@
        "src": "9장 p.17",
        "diff": 1,
        "prof": true,
-       "wiki": "정서중심 대처"
+       "wiki": "정서중심 대처",
+       "explainImg": "duo/img/psy9-p17-slide.jpg"
       },
       {
        "id": "u9d-05",
@@ -4272,7 +4521,8 @@
        "explain": "**학습된 무기력** — Seligman & Maier(1967).",
        "src": "9장 p.18",
        "diff": 1,
-       "wiki": "학습된 무기력"
+       "wiki": "학습된 무기력",
+       "explainImg": "duo/img/psy9-p18-slide.jpg"
       },
       {
        "id": "u9d-06",
@@ -4287,7 +4537,8 @@
        ],
        "explain": "**셀리그먼 & 마이어 (Seligman & Maier)** — 개 실험으로 **학습된 무기력**을 보인 연구 (1967)",
        "src": "9장 p.18",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "학습된 무기력",
+       "explainImg": "duo/img/psy9-p18-slide.jpg"
       },
       {
        "id": "u9d-07",
@@ -4301,7 +4552,8 @@
         "통제 불가한 상황",
         "통제력 결핍의 지각",
         "무기력한 행동의 일반화"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p18-slide.jpg"
       },
       {
        "id": "u9d-08",
@@ -4317,7 +4569,8 @@
        "explain": "교수: '여기서의 키워드는 통제'. 통제 불가 = 가장 강력한 스트레스원. p.18 형성 과정. (오답 ① 사람에게서만 나타나며 동물 실험에서는 확인되지 않았다: **Seligman & Maier(1967)** 개 실험에서 확인.)",
        "src": "9장 p.18",
        "diff": 2,
-       "wiki": "학습된 무기력"
+       "wiki": "학습된 무기력",
+       "explainImg": "duo/img/psy9-p18-slide.jpg"
       },
       {
        "id": "u9d-09",
@@ -4330,7 +4583,8 @@
        ],
        "explain": "**선택의 역설 (선택지 증가의 역설)** — 잼 실험: 30개 < 6개 만족 — 선택지가 **너무 많을 때** 오히려 삶의 만족 ↓, 우울 ↑, **행동 마비** (Schwartz)",
        "src": "9장 p.20",
-       "wiki": "선택지 증가의 역설"
+       "wiki": "선택지 증가의 역설",
+       "explainImg": "duo/img/psy9-p20-slide.jpg"
       },
       {
        "id": "u9d-10",
@@ -4347,7 +4601,8 @@
        "src": "9장 p.20",
        "diff": 2,
        "prof": true,
-       "wiki": "선택지 증가의 역설"
+       "wiki": "선택지 증가의 역설",
+       "explainImg": "duo/img/psy9-p20-slide.jpg"
       },
       {
        "id": "u9d-11",
@@ -4356,7 +4611,8 @@
        "explain": "아니다. 선택지 30개를 받은 쪽이 6개를 받은 쪽보다 **덜 만족**했다(Iyengar & Lepper). 교수: 기회 비용 → 후회 ↑.",
        "src": "9장 p.20",
        "wiki": "선택지 증가의 역설",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p20-slide.jpg"
       },
       {
        "id": "u9d-12",
@@ -4372,7 +4628,8 @@
        "explain": "**내적 통제 소재** — 반대는 외적 통제 소재(PTSD ↑).",
        "src": "9장 p.21",
        "diff": 1,
-       "wiki": "내적 통제 소재"
+       "wiki": "내적 통제 소재",
+       "explainImg": "duo/img/psy9-p21-slide.jpg"
       },
       {
        "id": "u9d-13",
@@ -4385,7 +4642,8 @@
        ],
        "explain": "**외적 통제 소재** — PTSD ↑, 현 세대가 이전 세대보다 더 많이 보고(Twenge)",
        "src": "9장 p.22",
-       "wiki": "외적 통제 소재"
+       "wiki": "외적 통제 소재",
+       "explainImg": "duo/img/psy9-p22-slide.jpg"
       },
       {
        "id": "u9d-14",
@@ -4401,7 +4659,8 @@
        "explain": "내적 = 스스로 결정·만든다 / 외적 = 외부 요인이 영향. p.21. (오답 ② 외적 통제 소재가 강할수록 PTSD가 적다: 외적 통제 소재 → **더 큰** PTSD(Hoffman et al., 2016).)",
        "src": "9장 p.21–22",
        "diff": 2,
-       "wiki": "통제 소재"
+       "wiki": "통제 소재",
+       "explainImg": "duo/img/psy9-p21-slide.jpg"
       },
       {
        "id": "u9d-15",
@@ -4411,7 +4670,8 @@
        "src": "9장 p.22 🎙",
        "wiki": "외적 통제 소재",
        "prof": true,
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p22-slide.jpg"
       },
       {
        "id": "u9d-16",
@@ -4428,7 +4688,8 @@
        "src": "9장 p.22",
        "diff": 2,
        "prof": true,
-       "wiki": "외적 통제 소재"
+       "wiki": "외적 통제 소재",
+       "explainImg": "duo/img/psy9-p22-slide.jpg"
       },
       {
        "id": "u9d-17",
@@ -4444,7 +4705,8 @@
         "학습된무기력"
        ],
        "img": "duo/img/psy9-p18-helpless.png",
-       "imgAlt": "위에서 아래로 이어지는 세 단계 흐름도"
+       "imgAlt": "위에서 아래로 이어지는 세 단계 흐름도",
+       "explainImg": "duo/img/psy9-p18-slide.jpg"
       }
      ]
     },
@@ -4484,7 +4746,8 @@
        "explain": "**자기 통제** — 마시멜로 실험, 교수: 쿨타임.",
        "src": "9장 p.23",
        "diff": 1,
-       "wiki": "자기 통제"
+       "wiki": "자기 통제",
+       "explainImg": "duo/img/psy9-p23-slide.jpg"
       },
       {
        "id": "u9e-02",
@@ -4497,7 +4760,8 @@
        ],
        "explain": "**마시멜로 실험** — 자기 통제의 예 — 지금 하나를 먹을지, 기다렸다 더 받을지로 아동의 **만족 지연**을 본 대표 실험 (미셸)",
        "src": "9장 p.23",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "자기 통제",
+       "explainImg": "duo/img/psy9-p23-slide.jpg"
       },
       {
        "id": "u9e-03",
@@ -4513,7 +4777,8 @@
        "explain": "손실과 회복을 반복하며 능력이 커진다. **반복 훈련으로 강화**된다(Baumeister & Vohs, 2016). (오답 ① 지능 검사 점수보다 학업 성취를 더 잘 예측한다: 옳다(Duckworth & Seligman).)",
        "src": "9장 p.23",
        "diff": 2,
-       "wiki": "자기 통제"
+       "wiki": "자기 통제",
+       "explainImg": "duo/img/psy9-p23-slide.jpg"
       },
       {
        "id": "u9e-04",
@@ -4532,7 +4797,8 @@
         "증가",
         "유전",
         "처벌"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p23-slide.jpg"
       },
       {
        "id": "u9e-05",
@@ -4545,7 +4811,8 @@
        ],
        "explain": "**낙관성** — 교수: 문제중심 대처 전략을 세우는 쪽 — 상황·난관의 **극복 가능성을 열어두는** 설명 양식 — 통제감·대처 능력 우수, 일란성 쌍둥이 연구로 **유전 영향** 확인",
        "src": "9장 p.24",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "설명 양식",
+       "explainImg": "duo/img/psy9-p24-slide.jpg"
       },
       {
        "id": "u9e-06",
@@ -4561,7 +4828,8 @@
        "explain": "교수: '비관적인 인원도 훈련을 받으면 충분히 낙관성을 갖출 수가 있어요'. p.24(일란성 쌍둥이) + p.25(Malouff & Schutte). (오답 ② 낙관성은 유전되므로 훈련으로는 바꿀 수 없다: 훈련으로 바뀐다(p.25).)",
        "src": "9장 p.24–25",
        "diff": 2,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "설명 양식",
+       "explainImg": "duo/img/psy9-p25-slide.jpg"
       },
       {
        "id": "u9e-07",
@@ -4570,7 +4838,8 @@
        "explain": "아니다. 일란성 쌍둥이 연구로 유전 영향이 있지만, **훈련**으로 낙관성을 갖출 수도 있다 — 둘 다 맞다.",
        "src": "9장 p.24–25",
        "wiki": "설명 양식",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy9-p24-slide.jpg"
       },
       {
        "id": "u9e-08",
@@ -4585,7 +4854,8 @@
        "explain": "**인지행동 치료** — 교수: '중요한 건 그 부분' = 반박 증거 — 사건 → 정서·강도 → 사고 → **지지 증거** → **반박 증거** → 재평가·강도 재측정 순으로 인식을 바꾸는 치료",
        "src": "9장 p.25",
        "prof": true,
-       "wiki": "인지행동 치료"
+       "wiki": "인지행동 치료",
+       "explainImg": "duo/img/psy9-p25-slide.jpg"
       },
       {
        "id": "u9e-09",
@@ -4602,7 +4872,8 @@
         "그 사고를 지지하는 증거",
         "그 사고를 반박하는 증거",
         "재평가 후 강도 재측정"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p25-slide.jpg"
       },
       {
        "id": "u9e-10",
@@ -4619,7 +4890,8 @@
        "src": "9장 p.25",
        "diff": 3,
        "prof": true,
-       "wiki": "인지행동 치료"
+       "wiki": "인지행동 치료",
+       "explainImg": "duo/img/psy9-p25-slide.jpg"
       },
       {
        "id": "u9e-11",
@@ -4632,7 +4904,8 @@
        ],
        "explain": "**사회적 지원(지지)** — 고립 시 사망률 약 30% ↑. 교수: 아는 사람 수가 아니라 **깊은 관계**",
        "src": "9장 p.26",
-       "wiki": "사회적 지원"
+       "wiki": "사회적 지원",
+       "explainImg": "duo/img/psy9-p26-slide.jpg"
       },
       {
        "id": "u9e-12",
@@ -4648,7 +4921,8 @@
        "explain": "행복한 결혼 생활 = 건강한 노화의 최고 예측 요인(Vaillant). 문화권과 **무관하게** 예측한다(Rueger). 교수: '문화권에 따라서 큰 차이가 없어요'. (오답 ① 고립된 사람은 사망률이 약 30% 더 높다: 옳다(Holt-Lunstad).)",
        "src": "9장 p.26–27",
        "diff": 2,
-       "wiki": "사회적 지원"
+       "wiki": "사회적 지원",
+       "explainImg": "duo/img/psy9-p26-slide.jpg"
       },
       {
        "id": "u9e-13",
@@ -4657,7 +4931,8 @@
        "explain": "p.23: 자기 통제는 IQ보다 학업 성취를 더 잘 예측하고, 반복 훈련으로 강화되며, 사용 후 일시 고갈된다.",
        "src": "9장 p.23",
        "wiki": "자기 통제",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy9-p23-slide.jpg"
       },
       {
        "id": "u9e-14",
@@ -4671,7 +4946,8 @@
        "explain": "**털어놓기** — 혼자서 일기로 적어도 도움(Kallay) — 사회적 지원의 **가장 강력한 이점**(교수). 고통스러운 감정을 꺼내면 일시적으로 각성되지만 곧 **빠르게 진정**",
        "src": "9장 p.28",
        "prof": true,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "사회적 지원",
+       "explainImg": "duo/img/psy9-p28-slide.jpg"
       },
       {
        "id": "u9e-15",
@@ -4688,7 +4964,8 @@
        "src": "9장 p.28",
        "diff": 2,
        "prof": true,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "사회적 지원",
+       "explainImg": "duo/img/psy9-p28-slide.jpg"
       },
       {
        "id": "u9e-16",
@@ -4700,7 +4977,8 @@
        ],
        "explain": "**정서 억제** — 교수: 화병은 쌓아 둬서 생긴다 — 감정을 꺼내지 않고 **담아두는 것** — 신체 건강에 악영향 (Wastell, 2002)",
        "src": "9장 p.28",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "사회적 지원",
+       "explainImg": "duo/img/psy9-p28-slide.jpg"
       }
      ]
     },
@@ -4743,7 +5021,8 @@
        "explain": "**초킹** — 시험 전 불안을 글로 표출하면 예방(Ramirez & Beilock).",
        "src": "9장 p.29",
        "diff": 1,
-       "wiki": "초킹"
+       "wiki": "초킹",
+       "explainImg": "duo/img/psy9-p29-slide.jpg"
       },
       {
        "id": "u9f-02",
@@ -4759,7 +5038,8 @@
        "explain": "p.28 털어놓기·일기와 같은 원리(표현 → 부담 해소). Ramirez & Beilock(2011). 교수: '혼자서라도 글로 써놓는 게'. (오답 ① 초킹 — 시험 직전 감정을 억누르기: 억제가 아니라 **표출**이 예방법이다.)",
        "src": "9장 p.29",
        "diff": 2,
-       "wiki": "작업 기억"
+       "wiki": "작업 기억",
+       "explainImg": "duo/img/psy9-p29-slide.jpg"
       },
       {
        "id": "u9f-03",
@@ -4771,7 +5051,8 @@
        ],
        "explain": "**유산소 운동** — 스코틀랜드 우편 배달부, 교수: 생물학적 차원의 가장 좋은 해결책 중 하나",
        "src": "9장 p.30–32",
-       "wiki": "유산소 운동"
+       "wiki": "유산소 운동",
+       "explainImg": "duo/img/psy9-p30-slide.jpg"
       },
       {
        "id": "u9f-04",
@@ -4787,7 +5068,8 @@
        "explain": "교수: '가장 중요한 항우울 효과', '거의 항우울제랑 동일한 수준'. **유산소 운동** 집단의 우울 점수가 가장 급격히 감소했다. (오답 ② 스코틀랜드 우편 배달부는 내근 직원보다 심장병 위험이 낮았다: 옳다(Tigbe et al.).)",
        "src": "9장 p.30–32",
        "diff": 2,
-       "wiki": "유산소 운동"
+       "wiki": "유산소 운동",
+       "explainImg": "duo/img/psy9-p30-slide.jpg"
       },
       {
        "id": "u9f-05",
@@ -4796,7 +5078,8 @@
        "explain": "유산소 운동은 스트레스 호르몬 반응을 완화하고 세로토닌·엔도르핀 분비를 늘려 항우울 효과를 낸다(Salmon, 2001).",
        "src": "9장 p.30–32",
        "wiki": "유산소 운동",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy9-p32-slide.jpg"
       },
       {
        "id": "u9f-06",
@@ -4811,7 +5094,8 @@
        ],
        "explain": "**프리드먼 & 울머 (Friedman & Ulmer)** — 심장마비 생존자에게 **이완·생활양식 수정** 조언을 추가 → 재발률 ↓ (1984)",
        "src": "9장 p.33",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "이완과 명상",
+       "explainImg": "duo/img/psy9-p33-slide.jpg"
       },
       {
        "id": "u9f-07",
@@ -4827,7 +5111,8 @@
        "explain": "교수는 '발병률'이라고 말했지만 슬라이드 표현은 심장마비 **재발률**. p.33. (오답 ① 식이·운동 표준 조언만 받은 집단의 재발률이 더 낮았다: 반대.)",
        "src": "9장 p.33",
        "diff": 2,
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "이완과 명상",
+       "explainImg": "duo/img/psy9-p33-slide.jpg"
       },
       {
        "id": "u9f-08",
@@ -4836,7 +5121,8 @@
        "explain": "슬라이드 = '재발률'. 교수는 수업에서 '발병률'이라 말했지만 시험은 슬라이드 기준이다.",
        "src": "9장 p.33",
        "wiki": "이완과 명상",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy9-p33-slide.jpg"
       },
       {
        "id": "u9f-09",
@@ -4849,7 +5135,8 @@
        ],
        "explain": "**마음챙김 명상 (mindfulness meditation)** — 교수 실습: 바디 스캔, 건포도 1분",
        "src": "9장 p.34",
-       "wiki": "마음챙김 명상"
+       "wiki": "마음챙김 명상",
+       "explainImg": "duo/img/psy9-p34-slide.jpg"
       },
       {
        "id": "u9f-10",
@@ -4865,7 +5152,8 @@
        "explain": "교수 실습: 바디 스캔, 건포도 한 알 1분 머금기. p.34(Creswell et al., 2007). (오답 ① 편도체 활성은 늘고 전전두엽 활성은 줄어든다: 반대.)",
        "src": "9장 p.34",
        "diff": 2,
-       "wiki": "마음챙김 명상"
+       "wiki": "마음챙김 명상",
+       "explainImg": "duo/img/psy9-p34-slide.jpg"
       },
       {
        "id": "u9f-11",
@@ -4884,7 +5172,8 @@
         "해마",
         "소뇌",
         "시상"
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p34-slide.jpg"
       },
       {
        "id": "u9f-12",
@@ -4897,7 +5186,8 @@
        ],
        "explain": "**신앙 공동체 생활** — 교수: 세 경로 중 **사회적 지원**이 가장 크다 — **자기통제·사회적 지원·긍정적 정서** 세 경로로 사망률을 낮추는 조직·환경 차원의 방법",
        "src": "9장 p.35",
-       "wiki": "9장 스트레스와 건강"
+       "wiki": "9장 스트레스와 건강",
+       "explainImg": "duo/img/psy9-p35-slide.jpg"
       },
       {
        "id": "u9f-13",
@@ -4914,7 +5204,8 @@
        "src": "9장 p.35",
        "diff": 1,
        "prof": true,
-       "wiki": "사회적 지원"
+       "wiki": "사회적 지원",
+       "explainImg": "duo/img/psy9-p35-slide.jpg"
       },
       {
        "id": "u9f-14",
@@ -4927,7 +5218,8 @@
        ],
        "explain": "**생물심리사회적 접근** — 교수: '늘 말했던 세 가지' — 스트레스 관리를 생물(운동)·심리(명상·재평가)·사회문화(관계)로 나눈 틀",
        "src": "9장 p.36",
-       "wiki": "생물심리사회적 접근법"
+       "wiki": "생물심리사회적 접근법",
+       "explainImg": "duo/img/psy9-p36-slide.jpg"
       },
       {
        "id": "u9f-15",
@@ -4943,7 +5235,8 @@
        "explain": "p.36 = 생물심리사회적 접근의 틀. 명상·재평가는 **심리적** 접근이다. (오답 ① 생물적 접근 — 유산소 운동으로 스트레스 호르몬 감소: 옳다.)",
        "src": "9장 p.36",
        "diff": 2,
-       "wiki": "스트레스"
+       "wiki": "스트레스",
+       "explainImg": "duo/img/psy9-p36-slide.jpg"
       },
       {
        "id": "u9f-16",
@@ -4969,7 +5262,8 @@
          "Creswell",
          "마음챙김 → 편도체 활성 감소"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy9-p34-slide.jpg"
       }
      ]
     }
@@ -5015,7 +5309,8 @@
        "explain": "같은 사람 + 다른 상황 = 사회, 같은 상황 + 다른 사람 = 성격. p.3 — 차이의 근본 요인 = 상황·환경. (오답 ① 성격심리학은 동일한 사람이 상이한 상황에서 다르게 행동하는 이유를 탐구한다: 그것은 **사회**심리학. 성격심리학은 같은 상황 + 여러 사람.)",
        "src": "10장 p.3",
        "diff": 1,
-       "wiki": "사회심리학"
+       "wiki": "사회심리학",
+       "explainImg": "duo/img/psy10-p3-slide.jpg"
       },
       {
        "id": "u10a-02",
@@ -5028,7 +5323,8 @@
        ],
        "explain": "**귀인 이론 (attribution theory)** — 성향 귀인 vs 상황 귀인 — 사람이 어떤 행동에 대한 **원인을 찾는 방식**에 대한 이론 (하이더, 1958)",
        "src": "10장 p.4",
-       "wiki": "귀인 이론"
+       "wiki": "귀인 이론",
+       "explainImg": "duo/img/psy10-p4-slide.jpg"
       },
       {
        "id": "u10a-03",
@@ -5041,7 +5337,8 @@
        ],
        "explain": "**하이더 (Heider)** — ⚠️ p.2 '인간은 사회적 동물' 캡션의 하이더는 잘못 붙은 것",
        "src": "10장 p.4",
-       "wiki": "10장 사회행동"
+       "wiki": "귀인 이론",
+       "explainImg": "duo/img/psy10-p4-slide.jpg"
       },
       {
        "id": "u10a-04",
@@ -5054,7 +5351,8 @@
        ],
        "explain": "**성향 귀인** (기질적 귀인) — 행동이 **개인의 특질**에 의해 발생했다고 보는 귀인. 예: '저 상사는 원래 성격이 꼬였어'",
        "src": "10장 p.4",
-       "wiki": "10장 사회행동"
+       "wiki": "귀인 이론",
+       "explainImg": "duo/img/psy10-p4-slide.jpg"
       },
       {
        "id": "u10a-05",
@@ -5070,7 +5368,8 @@
        "explain": "**근본적 귀인 오류** — 🖍 p.4.",
        "src": "10장 p.4",
        "diff": 1,
-       "wiki": "근본적 귀인 오류"
+       "wiki": "근본적 귀인 오류",
+       "explainImg": "duo/img/psy10-p4-slide.jpg"
       },
       {
        "id": "u10a-06",
@@ -5087,7 +5386,8 @@
        "src": "10장 p.4",
        "diff": 2,
        "prof": true,
-       "wiki": "근본적 귀인 오류"
+       "wiki": "근본적 귀인 오류",
+       "explainImg": "duo/img/psy10-p4-slide.jpg"
       },
       {
        "id": "u10a-07",
@@ -5097,7 +5397,8 @@
        "src": "10장 p.6 🖍",
        "wiki": "근본적 귀인 오류",
        "prof": true,
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p6-slide.jpg"
       },
       {
        "id": "u10a-08",
@@ -5113,7 +5414,8 @@
        "explain": "나 = 상황, 타인 = 성향. p.6 행동 주체에 따른 귀인 차이(🖍). (오답 ② 타인의 행동은 상황 귀인, 나의 행동은 성향 귀인을 했다: 반대로 연결했다.)",
        "src": "10장 p.6",
        "diff": 2,
-       "wiki": "10장 사회행동"
+       "wiki": "근본적 귀인 오류",
+       "explainImg": "duo/img/psy10-p6-slide.jpg"
       },
       {
        "id": "u10a-09",
@@ -5129,7 +5431,8 @@
        "explain": "개인주의 = 성향, 집단주의 = 상황. 반대 — **일본인 = 장면 전체**, **미국인 = 물고기 속성**(Chua et al., 2005). (오답 ① 서구권(개인주의)은 행동의 원인을 개인 특질에서 찾는 경향이 있다: 옳다.)",
        "src": "10장 p.5",
        "diff": 2,
-       "wiki": "10장 사회행동"
+       "wiki": "귀인 이론",
+       "explainImg": "duo/img/psy10-p5-slide.jpg"
       },
       {
        "id": "u10a-10",
@@ -5148,7 +5451,8 @@
         "내부",
         "극단적",
         "강렬"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p8-slide.jpg"
       },
       {
        "id": "u10a-11",
@@ -5165,7 +5469,8 @@
        "explain": "**문 안에 발 들여놓기(foot-in-the-door)**.",
        "src": "10장 p.9",
        "diff": 1,
-       "wiki": "문 안에 발 들여놓기"
+       "wiki": "문 안에 발 들여놓기",
+       "explainImg": "duo/img/psy10-p9-slide.jpg"
       },
       {
        "id": "u10a-12",
@@ -5180,7 +5485,8 @@
        "explain": "**인지 부조화** — 6·25 중공군 포로 사례.",
        "src": "10장 p.10",
        "diff": 1,
-       "wiki": "인지 부조화"
+       "wiki": "인지 부조화",
+       "explainImg": "duo/img/psy10-p10-slide.jpg"
       },
       {
        "id": "u10a-13",
@@ -5189,7 +5495,8 @@
        "explain": "아니다. 이미 한 행위는 되돌릴 수 없으니 **태도를 행위에 맞춘다**.",
        "src": "10장 p.10",
        "wiki": "인지 부조화",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p10-slide.jpg"
       },
       {
        "id": "u10a-14",
@@ -5205,7 +5512,8 @@
        "explain": "행위 → 태도 = 문 안에 발 들여놓기 · 인지 부조화 · 역할 놀이. 반복 노출 → 호감(p.36) — 매력의 요인이지 행위 → 태도 사례로 제시되지 않았다. (오답 ① 문 안에 발 들여놓기: p.9 행위 → 태도.)",
        "src": "10장 p.9–11",
        "diff": 2,
-       "wiki": "단순 노출 효과"
+       "wiki": "태도",
+       "explainImg": "duo/img/psy10-p10-slide.jpg"
       },
       {
        "id": "u10a-15",
@@ -5220,7 +5528,8 @@
        "explain": "**스탠포드 감옥 실험** — 역할 놀이의 대표 사례 — 평범한 대학생에게 간수·죄수 역할을 맡기자 폭압이 나타난 실험 (교수: 짐바르도)",
        "src": "10장 p.11",
        "prof": true,
-       "wiki": "10장 사회행동"
+       "wiki": "역할 놀이",
+       "explainImg": "duo/img/psy10-p11-slide.jpg"
       },
       {
        "id": "u10a-16",
@@ -5237,7 +5546,8 @@
        "src": "10장 p.11",
        "diff": 1,
        "prof": true,
-       "wiki": "10장 사회행동"
+       "wiki": "역할 놀이",
+       "explainImg": "duo/img/psy10-p11-slide.jpg"
       }
      ]
     },
@@ -5280,7 +5590,8 @@
        ],
        "explain": "**동조 (conformity)** — 사회적 압력에 순응 — 행동 혹은 생각을 **집단 기준에 맞추는** 것",
        "src": "10장 p.13, 15",
-       "wiki": "동조"
+       "wiki": "동조",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-02",
@@ -5292,7 +5603,8 @@
        ],
        "explain": "**카멜레온 효과** — 주변에 맞춰서 **행동을 같이하는** 현상 (하품이 전염되는 이유) — 차트랜드 & 바그(1999)",
        "src": "10장 p.13",
-       "wiki": "10장 사회행동"
+       "wiki": "동조",
+       "explainImg": "duo/img/psy10-p13-slide.jpg"
       },
       {
        "id": "u10b-03",
@@ -5304,7 +5616,8 @@
        ],
        "explain": "**긍정적 군집** — 무언가에 대한 **긍정적 평가**가 끊임없이 다른 긍정적 평가로 이어지는 순환. 예: SNS 투표 인증 → 투표율 ↑",
        "src": "10장 p.14",
-       "wiki": "10장 사회행동"
+       "wiki": "동조",
+       "explainImg": "duo/img/psy10-p14-slide.jpg"
       },
       {
        "id": "u10b-04",
@@ -5318,7 +5631,8 @@
        "explain": "**베르테르 효과** — 동조·사회적 전염의 부정적 요소.",
        "src": "10장 p.14",
        "diff": 1,
-       "wiki": "10장 사회행동"
+       "wiki": "동조",
+       "explainImg": "duo/img/psy10-p14-slide.jpg"
       },
       {
        "id": "u10b-05",
@@ -5334,7 +5648,8 @@
        "explain": "모방 범죄도 같은 줄기(Cooper; Porfiri). p.14. 교수: 동조의 '가장 극단적인 케이스'. (오답 ① 카멜레온 효과 — 복종의 부정적 요소: 카멜레온 효과는 행동을 따라 하는 현상이고, 복종이 아니다.)",
        "src": "10장 p.14",
        "diff": 1,
-       "wiki": "10장 사회행동"
+       "wiki": "동조",
+       "explainImg": "duo/img/psy10-p14-slide.jpg"
       },
       {
        "id": "u10b-06",
@@ -5349,7 +5664,8 @@
        "explain": "**규범적 사회 영향** — 반대: 정보적 사회 영향(정확성).",
        "src": "10장 p.15",
        "diff": 1,
-       "wiki": "규범적 사회 영향"
+       "wiki": "규범적 사회 영향",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-07",
@@ -5362,7 +5678,8 @@
        ],
        "explain": "**정보적 사회 영향** — **정확성을 추구**하여 동조하는 것 — 남들의 판단을 정보로 사용. 예: 식당 리뷰",
        "src": "10장 p.15",
-       "wiki": "정보적 사회 영향"
+       "wiki": "정보적 사회 영향",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-08",
@@ -5378,7 +5695,8 @@
        "explain": "'남들이 더 잘 알 것 같아서' = 정보적, '튀기 싫어서' = 규범적. **정확성**을 추구해 남들의 판단을 정보로 사용(p.15 식당 리뷰 예). (오답 ① 규범적 사회 영향: 인정·배척 회피 때문 — 여기선 남의 시선이 아니라 정확한 판단이 목적.)",
        "src": "10장 p.15",
        "diff": 1,
-       "wiki": "정보적 사회 영향"
+       "wiki": "정보적 사회 영향",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-09",
@@ -5394,7 +5712,8 @@
        "explain": "다른 의견을 내면 대가를 치러야 하는 부담감(Culcutt et al.). 사회적 인정을 얻거나 **배척을 피하기** 위해(p.15). (오답 ② 정보적 사회 영향: 본인은 안이 틀렸다고 알고 있으니 정확성 추구가 아니다.)",
        "src": "10장 p.15",
        "diff": 1,
-       "wiki": "규범적 사회 영향"
+       "wiki": "규범적 사회 영향",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-10",
@@ -5409,7 +5728,8 @@
        ],
        "explain": "**애쉬의 동조 실험** — 기준 선분과 길이가 같은 비교 선분을 고르게 해 다수의 오답에 따라가는지 본 실험 (1955)",
        "src": "10장 p.15",
-       "wiki": "애쉬의 동조 실험"
+       "wiki": "애쉬의 동조 실험",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-11",
@@ -5431,7 +5751,8 @@
         "2",
         "다수결",
         "권위자"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p16-slide.jpg"
       },
       {
        "id": "u10b-12",
@@ -5448,7 +5769,8 @@
        "src": "10장 p.16",
        "diff": 2,
        "prof": true,
-       "wiki": "10장 사회행동"
+       "wiki": "애쉬의 동조 실험",
+       "explainImg": "duo/img/psy10-p16-slide.jpg"
       },
       {
        "id": "u10b-13",
@@ -5465,7 +5787,8 @@
        "src": "10장 p.16",
        "diff": 2,
        "prof": true,
-       "wiki": "10장 사회행동"
+       "wiki": "애쉬의 동조 실험",
+       "explainImg": "duo/img/psy10-p16-slide.jpg"
       },
       {
        "id": "u10b-14",
@@ -5474,7 +5797,8 @@
        "explain": "조건은 반대로 **미리 반응을 정하지 않았을 때** 동조가 쉽다. 이미 공언한 사람은 입장을 덜 바꾼다.",
        "src": "10장 p.16",
        "wiki": "애쉬의 동조 실험",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p16-slide.jpg"
       },
       {
        "id": "u10b-15",
@@ -5483,7 +5807,8 @@
        "explain": "맞다. 집단주의 문화권에서 동조가 **강하게** 나타난다(Bond & Smith). 귀인도 집단주의 = 상황 쪽.",
        "src": "10장 p.17",
        "wiki": "동조",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy10-p17-slide.jpg"
       },
       {
        "id": "u10b-16",
@@ -5513,7 +5838,8 @@
          "정보적 사회 영향",
          "정확성을 추구하는 동조"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10b-17",
@@ -5530,7 +5856,8 @@
        ],
        "answer": 0,
        "img": "duo/img/psy10-p15-asch.png",
-       "imgAlt": "기준 선분과 비교 선분 1·2·3, 실험 참가자들이 앉은 장면"
+       "imgAlt": "기준 선분과 비교 선분 1·2·3, 실험 참가자들이 앉은 장면",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       }
      ]
     },
@@ -5568,7 +5895,8 @@
        ],
        "explain": "**복종 (obedience)** — **명령에 따르기** — 비도덕적인 요구에 왜 따르는지에 대한 탐구에서 시작",
        "src": "10장 p.18",
-       "wiki": "복종"
+       "wiki": "복종",
+       "explainImg": "duo/img/psy10-p18-slide.jpg"
       },
       {
        "id": "u10c-02",
@@ -5582,7 +5910,8 @@
        ],
        "explain": "**밀그램의 복종 실험** — 사전엔 대부분 '저항하겠다'고 응답 — 옆방 학습자에게 **15V → 450V** 전기 충격을 주라고 지시 → 대부분 마지막 단계까지 진행 (1963, 1974)",
        "src": "10장 p.18",
-       "wiki": "밀그램의 복종 실험"
+       "wiki": "밀그램의 복종 실험",
+       "explainImg": "duo/img/psy10-p18-slide.jpg"
       },
       {
        "id": "u10c-03",
@@ -5595,7 +5924,8 @@
        ],
        "explain": "**밀그램 (Milgram)** — **복종 실험**(전기 충격) + 복종 요인 4가지 (1963, 1974)",
        "src": "10장 p.18–19",
-       "wiki": "밀그램의 복종 실험"
+       "wiki": "밀그램의 복종 실험",
+       "explainImg": "duo/img/psy10-p19-slide.jpg"
       },
       {
        "id": "u10c-04",
@@ -5611,7 +5941,8 @@
        "explain": "교수: '개인적인 특질보다는 상황에 의해'. 대부분 **마지막 단계까지** 진행했다(p.18). (오답 ② 실험 전에는 대부분이 부당한 명령에 저항할 수 있다고 응답했다: 옳다.)",
        "src": "10장 p.18",
        "diff": 2,
-       "wiki": "밀그램의 복종 실험"
+       "wiki": "밀그램의 복종 실험",
+       "explainImg": "duo/img/psy10-p18-slide.jpg"
       },
       {
        "id": "u10c-05",
@@ -5620,7 +5951,8 @@
        "explain": "15V → 450V. 대부분의 참가자가 마지막 단계까지 진행했다(1963, 1974).",
        "src": "10장 p.18",
        "wiki": "밀그램의 복종 실험",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy10-p18-slide.jpg"
       },
       {
        "id": "u10c-06",
@@ -5643,7 +5975,8 @@
         "멀리",
         "익명의",
         "사적인"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p19-slide.jpg"
       },
       {
        "id": "u10c-07",
@@ -5659,7 +5992,8 @@
        "explain": "드론 조종사가 실제 전투 참가자보다 PTSD가 적다(Miller, 2012) — 희생자와의 거리. 반대 — 희생자가 **멀리** 떨어져 있거나 **몰개성화**되어 있을 때 복종 ↑. (오답 ① 명령자가 가까이 있고 합법적 권위자로 지각될 때: 요인 ①(교수: 합법적 권위가 더 중요).)",
        "src": "10장 p.19",
        "diff": 2,
-       "wiki": "10장 사회행동"
+       "wiki": "밀그램의 복종 실험",
+       "explainImg": "duo/img/psy10-p19-slide.jpg"
       },
       {
        "id": "u10c-08",
@@ -5669,7 +6003,8 @@
        "src": "10장 p.19 🎙",
        "wiki": "복종",
        "prof": true,
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy10-p19-slide.jpg"
       },
       {
        "id": "u10c-09",
@@ -5685,7 +6020,8 @@
        "explain": "p.20 교훈: 행동에는 사회적 제어가 상당 부분 개입. p.15·p.18 정의. (오답 ① 동조 실험의 대표는 밀그램, 복종 실험의 대표는 애쉬다: 반대 — 동조 = 애쉬, 복종 = 밀그램.)",
        "src": "10장 p.15–20",
        "diff": 2,
-       "wiki": "10장 사회행동"
+       "wiki": "복종",
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10c-10",
@@ -5694,7 +6030,8 @@
        "explain": "반대다. 동조 = **집단 기준**에 맞춤(애쉬), 복종 = **명령**에 따름(밀그램). 조건 7개 vs 요인 4개를 섞는 보기에 주의.",
        "src": "10장 p.15–19",
        "wiki": "복종",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p15-slide.jpg"
       },
       {
        "id": "u10c-11",
@@ -5712,7 +6049,8 @@
         "전압",
         "큰",
         "보상"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p20-slide.jpg"
       },
       {
        "id": "u10c-12",
@@ -5725,7 +6063,8 @@
        ],
        "explain": "**소수자 영향력 (저항하는 소수)** — 소수가 다수의 태도·행동을 유도하는 힘 (Moscovici, 1985). 사진: 나치 경례 군중 속 팔짱 낀 란트메서",
        "src": "10장 p.21",
-       "wiki": "소수자 영향력"
+       "wiki": "소수자 영향력",
+       "explainImg": "duo/img/psy10-p21-slide.jpg"
       },
       {
        "id": "u10c-13",
@@ -5738,7 +6077,8 @@
        ],
        "explain": "**모스코비치 (Moscovici)** — **저항하는 소수**·소수자 영향력 (1985)",
        "src": "10장 p.21",
-       "wiki": "10장 사회행동"
+       "wiki": "소수자 영향력",
+       "explainImg": "duo/img/psy10-p21-slide.jpg"
       },
       {
        "id": "u10c-14",
@@ -5755,7 +6095,8 @@
        "src": "10장 p.21",
        "diff": 1,
        "prof": true,
-       "wiki": "10장 사회행동"
+       "wiki": "소수자 영향력",
+       "explainImg": "duo/img/psy10-p21-slide.jpg"
       },
       {
        "id": "u10c-15",
@@ -5763,7 +6104,7 @@
        "q": "학자와 연구를 연결하시오",
        "explain": "10장 학자–연구 짝. 교수가 수업에서 큰 모자 실험을 밀그램이라 말했지만 슬라이드는 짐바르도(1970)다.",
        "src": "10장 p.11–26",
-       "wiki": "10장 사회행동",
+       "wiki": "밀그램의 복종 실험",
        "pairs": [
         [
          "애쉬",
@@ -5785,7 +6126,8 @@
          "재니스",
          "집단 사고(피그스만 침공)"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p26-slide.jpg"
       },
       {
        "id": "u10c-16",
@@ -5802,7 +6144,8 @@
        ],
        "answer": 0,
        "img": "duo/img/psy10-p18-milgram.png",
-       "imgAlt": "충격 발생기, 학습자 결박 장면, 전압이 오를수록 서서히 내려가는 복종 비율 그래프"
+       "imgAlt": "충격 발생기, 학습자 결박 장면, 전압이 오를수록 서서히 내려가는 복종 비율 그래프",
+       "explainImg": "duo/img/psy10-p18-slide.jpg"
       }
      ]
     },
@@ -5839,7 +6182,8 @@
        ],
        "explain": "**사회적 촉진** — 원인: 타인의 존재로 인한 각성 — **타인의 존재**가 **수행 증진**을 유도 — 단, **쉬운 과제**에서. 어려운 과제는 오히려 오답 ↑",
        "src": "10장 p.22",
-       "wiki": "사회적 촉진"
+       "wiki": "사회적 촉진",
+       "explainImg": "duo/img/psy10-p22-slide.jpg"
       },
       {
        "id": "u10d-02",
@@ -5856,7 +6200,8 @@
        "src": "10장 p.22",
        "diff": 2,
        "prof": true,
-       "wiki": "사회적 촉진"
+       "wiki": "사회적 촉진",
+       "explainImg": "duo/img/psy10-p22-slide.jpg"
       },
       {
        "id": "u10d-03",
@@ -5866,7 +6211,8 @@
        "src": "10장 p.22 🎙",
        "wiki": "사회적 촉진",
        "prof": true,
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p22-slide.jpg"
       },
       {
        "id": "u10d-04",
@@ -5881,7 +6227,8 @@
        "explain": "**사회적 태만** — 반대: 사회적 촉진.",
        "src": "10장 p.23",
        "diff": 1,
-       "wiki": "사회적 태만"
+       "wiki": "사회적 태만",
+       "explainImg": "duo/img/psy10-p23-slide.jpg"
       },
       {
        "id": "u10d-05",
@@ -5897,7 +6244,8 @@
        "explain": "교수: 사회적 태만 = 팀플을 싫어하게 되는 1순위. 각성은 **사회적 촉진**(그리고 몰개인화)의 설명이다. (오답 ② 개인의 기여를 과소평가해서: 옳다(Harkins & Szymanski).)",
        "src": "10장 p.23",
        "diff": 2,
-       "wiki": "사회적 태만"
+       "wiki": "사회적 태만",
+       "explainImg": "duo/img/psy10-p23-slide.jpg"
       },
       {
        "id": "u10d-06",
@@ -5912,7 +6260,8 @@
        "explain": "**몰개인화** — 훌리건, 온라인 혐오 발언.",
        "src": "10장 p.24",
        "diff": 1,
-       "wiki": "몰개인화"
+       "wiki": "몰개인화",
+       "explainImg": "duo/img/psy10-p24-slide.jpg"
       },
       {
        "id": "u10d-07",
@@ -5925,7 +6274,8 @@
        ],
        "explain": "**짐바르도 (Zimbardo)** — 교수는 '밀그램의 연장선'이라 했지만 슬라이드 = Zimbardo",
        "src": "10장 p.24",
-       "wiki": "10장 사회행동"
+       "wiki": "몰개인화",
+       "explainImg": "duo/img/psy10-p24-slide.jpg"
       },
       {
        "id": "u10d-08",
@@ -5941,7 +6291,8 @@
        "explain": "예: 훌리건, 온라인 커뮤니티의 혐오 발언. 교수는 큰 모자 실험을 밀그램의 연장선이라 했지만 출처는 슬라이드 기준(Zimbardo). p.24. 교수: '동시에 작용'. (오답 ① 타인의 존재가 각성만 일으켜 쉬운 과제 수행을 돕는 현상이다: 사회적 촉진.)",
        "src": "10장 p.24",
        "diff": 2,
-       "wiki": "몰개인화"
+       "wiki": "몰개인화",
+       "explainImg": "duo/img/psy10-p24-slide.jpg"
       },
       {
        "id": "u10d-09",
@@ -5960,7 +6311,8 @@
         "익명성",
         "동기",
         "수행"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p24-slide.jpg"
       },
       {
        "id": "u10d-10",
@@ -5973,7 +6325,8 @@
        ],
        "explain": "**집단 극화 (group polarization)** — **유사한 성향**의 사람들과의 소통이 **기존 태도를 더욱 강화**하는 현상 — 양극단, 온라인에서 극심",
        "src": "10장 p.25",
-       "wiki": "집단 극화"
+       "wiki": "집단 극화",
+       "explainImg": "duo/img/psy10-p25-slide.jpg"
       },
       {
        "id": "u10d-11",
@@ -5989,7 +6342,8 @@
        "explain": "온라인 공간에서 특히 극심(Hills, 2019), 상대 집단 배타성으로 이어짐. 유사한 성향의 사람들과의 소통 → 기존 태도 강화(p.25). (오답 ① 집단 사고: 화합을 위해 **반대 의견을 억제**하는 만장일치형 의사결정 과정.)",
        "src": "10장 p.25",
        "diff": 2,
-       "wiki": "집단 극화"
+       "wiki": "집단 극화",
+       "explainImg": "duo/img/psy10-p25-slide.jpg"
       },
       {
        "id": "u10d-12",
@@ -6004,7 +6358,8 @@
        "explain": "**집단 사고** — 피그스만 침공.",
        "src": "10장 p.26",
        "diff": 1,
-       "wiki": "집단 사고"
+       "wiki": "집단 사고",
+       "explainImg": "duo/img/psy10-p26-slide.jpg"
       },
       {
        "id": "u10d-13",
@@ -6017,7 +6372,8 @@
        ],
        "explain": "**재니스 (Janis)** — **집단 사고** (1982) — 피그스만 침공",
        "src": "10장 p.26",
-       "wiki": "10장 사회행동"
+       "wiki": "집단 사고",
+       "explainImg": "duo/img/psy10-p26-slide.jpg"
       },
       {
        "id": "u10d-14",
@@ -6033,7 +6389,8 @@
        "explain": "관건 = 얼마나 자유롭게 반대 의견을 내놓을 수 있는가. 교수: 소수 의견까지 수용할 준비. 반드시 그렇지는 않다 — 반례 **마셜 플랜**. (오답 ② 재니스(1982)가 제시한, 비판·반론이 제기되지 않는 만장일치형 사고 과정이다: 옳다.)",
        "src": "10장 p.26",
        "diff": 2,
-       "wiki": "집단 사고"
+       "wiki": "집단 사고",
+       "explainImg": "duo/img/psy10-p26-slide.jpg"
       },
       {
        "id": "u10d-15",
@@ -6042,7 +6399,8 @@
        "explain": "맞다 — 피그스만 침공은 **집단 사고**(재니스)의 사례다(집단 극화가 아님). 집단 결정이 좋았던 반례는 마셜 플랜.",
        "src": "10장 p.26",
        "wiki": "집단 사고",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy10-p26-slide.jpg"
       },
       {
        "id": "u10d-16",
@@ -6052,7 +6410,8 @@
        "src": "10장 p.26 🎙",
        "wiki": "집단 사고",
        "prof": true,
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy10-p26-slide.jpg"
       },
       {
        "id": "u10d-17",
@@ -6068,7 +6427,8 @@
         "탈개인화"
        ],
        "img": "duo/img/psy10-p24-hooligan.png",
-       "imgAlt": "방망이를 든 축구 훌리건 일러스트"
+       "imgAlt": "방망이를 든 축구 훌리건 일러스트",
+       "explainImg": "duo/img/psy10-p24-slide.jpg"
       }
      ]
     },
@@ -6107,7 +6467,8 @@
        "explain": "편견 = 부정적 정서 + 고정관념 + 차별 성향. 암묵적 편견 = 무의식적 집단 연합 · 반사적 신체 반응 · 무의식적 후원. **암묵적 편견**의 한 형태(p.27)이지 3요소가 아니다. (오답 ① 부정적 정서: 3요소.)",
        "src": "10장 p.27",
        "diff": 2,
-       "wiki": "10장 사회행동"
+       "wiki": "편견",
+       "explainImg": "duo/img/psy10-p27-slide.jpg"
       },
       {
        "id": "u10e-02",
@@ -6126,7 +6487,8 @@
         "기억",
         "귀인",
         "동기"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p27-slide.jpg"
       },
       {
        "id": "u10e-03",
@@ -6143,7 +6505,8 @@
        "explain": "**공평한 세상 현상** — SES 높은 사람(🖍).",
        "src": "10장 p.29",
        "diff": 1,
-       "wiki": "공평한 세상 현상"
+       "wiki": "공평한 세상 현상",
+       "explainImg": "duo/img/psy10-p29-slide.jpg"
       },
       {
        "id": "u10e-04",
@@ -6160,7 +6523,8 @@
        "src": "10장 p.29",
        "diff": 2,
        "prof": true,
-       "wiki": "공평한 세상 현상"
+       "wiki": "공평한 세상 현상",
+       "explainImg": "duo/img/psy10-p29-slide.jpg"
       },
       {
        "id": "u10e-05",
@@ -6170,7 +6534,8 @@
        "src": "10장 p.29 🎙",
        "wiki": "공평한 세상 현상",
        "prof": true,
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p29-slide.jpg"
       },
       {
        "id": "u10e-06",
@@ -6183,7 +6548,8 @@
        ],
        "explain": "**희생자 비난하기** — **후견 편향**을 토대로 차별 대상자에게 **차별의 원인이 있다**고 단정 (Allport, 1954)",
        "src": "10장 p.29",
-       "wiki": "10장 사회행동"
+       "wiki": "공평한 세상 현상",
+       "explainImg": "duo/img/psy10-p29-slide.jpg"
       },
       {
        "id": "u10e-07",
@@ -6199,7 +6565,8 @@
        "explain": "교수: '팔은 안으로 굽는다'. 우리/그들 구분은 결속을 다지지만 편견의 가장 큰 요인. 외집단 적개심보다 **내집단 편향**을 통한 차별이 주요(Romano et al., 2017). (오답 ① 외집단에 대한 적개심: 슬라이드는 이것보다 내집단 편향이 주요하다고 했다.)",
        "src": "10장 p.30",
        "diff": 2,
-       "wiki": "내집단 편향"
+       "wiki": "내집단 편향",
+       "explainImg": "duo/img/psy10-p30-slide.jpg"
       },
       {
        "id": "u10e-08",
@@ -6211,7 +6578,8 @@
        ],
        "explain": "**희생양 이론** — 편견이 **비난의 대상**을 설정해 **분노의 배출구**를 제공한다는 이론 (경제 하강기 차별 ↑, 좌절 → 남 비난으로 자존감 회복)",
        "src": "10장 p.31",
-       "wiki": "희생양 이론"
+       "wiki": "희생양 이론",
+       "explainImg": "duo/img/psy10-p31-slide.jpg"
       },
       {
        "id": "u10e-09",
@@ -6224,7 +6592,8 @@
        ],
        "explain": "**외집단 동질성** — 외집단 일원들의 **유사성을 과대추정**해 '다 똑같다'고 보는 인식",
        "src": "10장 p.32",
-       "wiki": "외집단 동질성"
+       "wiki": "외집단 동질성",
+       "explainImg": "duo/img/psy10-p32-slide.jpg"
       },
       {
        "id": "u10e-10",
@@ -6240,7 +6609,8 @@
        "explain": "**다른 인종 효과** — 인지적 지름길(외집단 동질성).",
        "src": "10장 p.32",
        "diff": 1,
-       "wiki": "10장 사회행동"
+       "wiki": "외집단 동질성",
+       "explainImg": "duo/img/psy10-p32-slide.jpg"
       },
       {
        "id": "u10e-11",
@@ -6266,7 +6636,8 @@
          "인지적 지름길",
          "외집단 동질성·다른 인종 효과"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p32-slide.jpg"
       },
       {
        "id": "u10e-12",
@@ -6282,7 +6653,8 @@
        "explain": "유전(MAOA 낮음) · 신경(전두엽) · 생화학(테스토스테론·알코올). p.33 신경적 요인(Raine). (오답 ① MAOA 발현율이 높을수록 공격성이 높다: **낮으면** 공격성 ↑.)",
        "src": "10장 p.33",
        "diff": 2,
-       "wiki": "공격성"
+       "wiki": "공격성",
+       "explainImg": "duo/img/psy10-p33-slide.jpg"
       },
       {
        "id": "u10e-13",
@@ -6291,7 +6663,8 @@
        "explain": "맞다 — 발현율이 **낮으면** 공격성이 높아진다(Tiihonen). 생물학적 소인: 유전(MAOA)·신경(전두엽)·생화학(테스토스테론·알코올).",
        "src": "10장 p.33",
        "wiki": "공격성",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy10-p33-slide.jpg"
       },
       {
        "id": "u10e-14",
@@ -6305,7 +6678,8 @@
        ],
        "explain": "**좌절-공격성 연계** — 홈런 맞은 투수의 데드볼 — 어떤 사건으로 생긴 **좌절이 분노**를 초래하고 곧 **공격 행동**으로 이어진다는 원리",
        "src": "10장 p.34",
-       "wiki": "좌절-공격성 연계"
+       "wiki": "좌절-공격성 연계",
+       "explainImg": "duo/img/psy10-p34-slide.jpg"
       },
       {
        "id": "u10e-15",
@@ -6321,7 +6695,8 @@
        "explain": "혐오 사건(고온)도 사구 비율을 높인다(Larrick et al., 2011). 좌절 → 분노 → 공격 행동(p.34). (오답 ② 사회적 촉진: 타인의 존재로 수행 증진.)",
        "src": "10장 p.34",
        "diff": 1,
-       "wiki": "좌절-공격성 연계"
+       "wiki": "좌절-공격성 연계",
+       "explainImg": "duo/img/psy10-p34-slide.jpg"
       },
       {
        "id": "u10e-16",
@@ -6334,7 +6709,8 @@
        ],
        "explain": "**사회 스크립트** — 강화와 모델링(5장 관찰 학습) — 대중 매체가 전달하는, 다양한 상황에서 **어떻게 행동할지에 대한 지침**",
        "src": "10장 p.35",
-       "wiki": "10장 사회행동"
+       "wiki": "공격성",
+       "explainImg": "duo/img/psy10-p35-slide.jpg"
       }
      ]
     },
@@ -6379,7 +6755,8 @@
        "explain": "**단순 노출 효과** — 근접성.",
        "src": "10장 p.36",
        "diff": 1,
-       "wiki": "단순 노출 효과"
+       "wiki": "단순 노출 효과",
+       "explainImg": "duo/img/psy10-p36-slide.jpg"
       },
       {
        "id": "u10f-02",
@@ -6395,7 +6772,8 @@
        "explain": "근접성(proximity)의 핵심. 8장 자이언스(역치 하 반복 → 선호)와 연결. p.36 — 각자 더 자주 본 쪽을 선호. (오답 ① 본인도 자기 얼굴의 실제 이미지를 더 선호한다: 본인은 **거울상**.)",
        "src": "10장 p.36",
        "diff": 2,
-       "wiki": "단순 노출 효과"
+       "wiki": "단순 노출 효과",
+       "explainImg": "duo/img/psy10-p36-slide.jpg"
       },
       {
        "id": "u10f-03",
@@ -6411,7 +6789,8 @@
        "explain": "오래 사귄 연인은 외모가 덜 중요(Hunt). 차이를 **지각**하면 유사성의 효과가 **상실**된다(얼룩말 만화). (오답 ① 외모는 근접성이 충족된 뒤 첫인상에 가장 큰 영향을 준다: 옳다(Eastwick).)",
        "src": "10장 p.37–39",
        "diff": 2,
-       "wiki": "매력의 심리학"
+       "wiki": "매력의 심리학",
+       "explainImg": "duo/img/psy10-p39-slide.jpg"
       },
       {
        "id": "u10f-04",
@@ -6424,7 +6803,8 @@
        ],
        "explain": "**열정애 (passionate love)** — Hatfield. 2요인 이론 원조는 8장 샥터-싱어",
        "src": "10장 p.40",
-       "wiki": "열정애"
+       "wiki": "열정애",
+       "explainImg": "duo/img/psy10-p40-slide.jpg"
       },
       {
        "id": "u10f-05",
@@ -6437,7 +6817,8 @@
        ],
        "explain": "**동료애 (companionate love)** — 열정애가 **성숙해진 안정적** 형태의 사랑 — 형평성·자기 노출·긍정적 지지",
        "src": "10장 p.41",
-       "wiki": "동료애"
+       "wiki": "동료애",
+       "explainImg": "duo/img/psy10-p41-slide.jpg"
       },
       {
        "id": "u10f-06",
@@ -6454,7 +6835,8 @@
        "src": "10장 p.40–41",
        "diff": 2,
        "prof": true,
-       "wiki": "열정애"
+       "wiki": "열정애",
+       "explainImg": "duo/img/psy10-p40-slide.jpg"
       },
       {
        "id": "u10f-07",
@@ -6469,7 +6851,8 @@
        "explain": "**방관자 효과** — 단답형은 '사회적 태만'이 아니라 이 이름.",
        "src": "10장 p.42",
        "diff": 1,
-       "wiki": "방관자 효과"
+       "wiki": "방관자 효과",
+       "explainImg": "duo/img/psy10-p42-slide.jpg"
       },
       {
        "id": "u10f-08",
@@ -6486,7 +6869,8 @@
        "src": "10장 p.42",
        "diff": 1,
        "prof": true,
-       "wiki": "방관자 효과"
+       "wiki": "방관자 효과",
+       "explainImg": "duo/img/psy10-p42-slide.jpg"
       },
       {
        "id": "u10f-09",
@@ -6501,7 +6885,8 @@
         "비상사태로 해석",
         "책임을 느낌",
         "도움"
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p42-slide.jpg"
       },
       {
        "id": "u10f-10",
@@ -6510,7 +6895,8 @@
        "explain": "슬라이드 명칭은 **방관자 효과**다. 교수가 수업에서 섞어 말했지만 시험은 슬라이드 기준.",
        "src": "10장 p.42",
        "wiki": "방관자 효과",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy10-p42-slide.jpg"
       },
       {
        "id": "u10f-11",
@@ -6523,7 +6909,8 @@
        ],
        "explain": "**사회 교환 이론** — **비용과 이득의 계산**을 통해 도움 행동이 결정된다는 관점",
        "src": "10장 p.43",
-       "wiki": "사회 교환 이론"
+       "wiki": "사회 교환 이론",
+       "explainImg": "duo/img/psy10-p43-slide.jpg"
       },
       {
        "id": "u10f-12",
@@ -6536,7 +6923,8 @@
        ],
        "explain": "**호혜성 규범** — 자신에게 도움을 준 이에게 **도움을 되돌려준다** — 호의에는 호의로",
        "src": "10장 p.43",
-       "wiki": "호혜성 규범"
+       "wiki": "호혜성 규범",
+       "explainImg": "duo/img/psy10-p43-slide.jpg"
       },
       {
        "id": "u10f-13",
@@ -6552,7 +6940,8 @@
        "explain": "교수: 세 관점 모두 어느 정도 설득력 / 이타주의 = 이기주의의 다른 형태라는 시각도. 비용이 이득을 상회해도 도와야 한다는 기대(p.43). (오답 ① 사회 교환 이론: 비용·이득 **계산**으로 결정 — 이득 > 비용일 때 돕는다.)",
        "src": "10장 p.43",
        "diff": 2,
-       "wiki": "사회적 책임 규범"
+       "wiki": "사회적 책임 규범",
+       "explainImg": "duo/img/psy10-p43-slide.jpg"
       },
       {
        "id": "u10f-14",
@@ -6578,7 +6967,8 @@
          "사람이 많으니 누군가 돕겠지",
          "방관자 효과"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy10-p43-slide.jpg"
       },
       {
        "id": "u10f-15",
@@ -6591,7 +6981,8 @@
        ],
        "explain": "**상위 목표 (superordinate goal)** — 플로리다 해변 인간 사슬 — 집단 갈등을 해소하고 단결력을 높이는, **함께 협력해야 달성되는 공동의 목표**",
        "src": "10장 p.44",
-       "wiki": "상위 목표"
+       "wiki": "상위 목표",
+       "explainImg": "duo/img/psy10-p44-slide.jpg"
       },
       {
        "id": "u10f-16",
@@ -6607,7 +6998,8 @@
        "explain": "접촉 · 협동(상위 목표) · 소통 · 화해. 예: 플로리다 해변 인간 사슬 = 상위 목표. **동등한 지위**의 당사자들 간의 **지속적** 접촉(Paluck et al., 2018). (오답 ② 공동의 상위 목표는 집단 내 갈등을 해소하고 단결력을 높인다: 옳다 — 협동.)",
        "src": "10장 p.44",
        "diff": 2,
-       "wiki": "10장 사회행동"
+       "wiki": "상위 목표",
+       "explainImg": "duo/img/psy10-p44-slide.jpg"
       },
       {
        "id": "u10f-17",
@@ -6618,7 +7010,8 @@
        "wiki": "방관자 효과",
        "answer": false,
        "img": "duo/img/psy10-p42-graph.png",
-       "imgAlt": "도울 것으로 생각한 다른 사람 수(0~4)에 따라 돕는 비율이 내려가는 그래프"
+       "imgAlt": "도울 것으로 생각한 다른 사람 수(0~4)에 따라 돕는 비율이 내려가는 그래프",
+       "explainImg": "duo/img/psy10-p42-slide.jpg"
       }
      ]
     }
@@ -6664,7 +7057,8 @@
         "통계적추론",
         "통계적 추론"
        ],
-       "wiki": "추론통계"
+       "wiki": "추론통계",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-02",
@@ -6676,7 +7070,8 @@
        "alts": [
         "population"
        ],
-       "wiki": "통계적 추리"
+       "wiki": "통계적 추리",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-03",
@@ -6689,7 +7084,8 @@
        "alts": [
         "sample",
         "샘플"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-04",
@@ -6704,7 +7100,8 @@
         "표본 수가 많을수록 차이가 커진다"
        ],
        "answer": 0,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-05",
@@ -6717,7 +7114,8 @@
         "기술 통계",
         "descriptive statistics"
        ],
-       "wiki": "기술통계"
+       "wiki": "기술통계",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-06",
@@ -6731,7 +7129,8 @@
         "inferential statistics",
         "추리통계"
        ],
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-07",
@@ -6757,7 +7156,8 @@
          "실제 데이터를 수집한 일부"
         ]
        ],
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sa-08",
@@ -6772,7 +7172,8 @@
         "central tendency",
         "중심 경향 측정치"
        ],
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-09",
@@ -6785,7 +7186,8 @@
         "mode",
         "최빈치"
        ],
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-10",
@@ -6799,7 +7201,8 @@
         "중앙치",
         "중간값"
        ],
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-11",
@@ -6814,7 +7217,8 @@
         "최저 점수와 최고 점수의 차이다"
        ],
        "answer": 0,
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-12",
@@ -6830,7 +7234,8 @@
         "최빈값이 평균보다 항상 크기 때문이다",
         "중앙값을 잘못 계산했기 때문이다"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-13",
@@ -6839,7 +7244,8 @@
        "explain": "교수: 최빈값 대비 평균이 많이 올라갔다면 극단치가 있을 가능성, 최빈값·중앙값이 평균과 비슷하면 극단치 가능성이 낮다.",
        "src": "9/1 녹음 2:06:54",
        "answer": true,
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-14",
@@ -6858,7 +7264,8 @@
         "범위",
         "P-value"
        ],
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sa-15",
@@ -6867,7 +7274,8 @@
        "explain": "퍼진 정도는 **변산성 측정치**(범위·표준 편차)다. 집중 경향 측정치는 데이터를 단일 점수로 요약한다.",
        "src": "1장 p.31–32",
        "answer": false,
-       "wiki": "집중 경향 측정치"
+       "wiki": "집중 경향 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sa-16",
@@ -6884,7 +7292,8 @@
        ],
        "answer": 0,
        "img": "duo/img/psy1-p31-skew-q.png",
-       "imgAlt": "오른쪽으로 꼬리가 긴 수입 분포, 40·60·140 지점의 이름표는 가림"
+       "imgAlt": "오른쪽으로 꼬리가 긴 수입 분포, 40·60·140 지점의 이름표는 가림",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       }
      ]
     },
@@ -6923,7 +7332,8 @@
         "variability",
         "변산도"
        ],
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-02",
@@ -6935,7 +7345,8 @@
        "alts": [
         "range"
        ],
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-03",
@@ -6949,7 +7360,8 @@
         "standard deviation",
         "SD"
        ],
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-04",
@@ -6965,7 +7377,8 @@
         "평균",
         "중앙값"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-05",
@@ -6974,7 +7387,8 @@
        "explain": "슬라이드 p.32 그대로. 평균에서 멀리 떨어진 값이 많다 = 넓게 퍼짐.",
        "src": "1장 p.32",
        "answer": true,
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-06",
@@ -6983,7 +7397,8 @@
        "explain": "반대다. 표준 편차가 작으면 데이터가 평균 근처에 **밀집**해 좁은 형태가 된다.",
        "src": "1장 p.32",
        "answer": false,
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-07",
@@ -6998,7 +7413,8 @@
         "중앙값"
        ],
        "answer": 0,
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-08",
@@ -7017,7 +7433,8 @@
         "중앙값",
         "P-value"
        ],
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-09",
@@ -7047,7 +7464,8 @@
          "평균을 중심으로 흩어진 정도"
         ]
        ],
-       "wiki": "변산성 측정치"
+       "wiki": "변산성 측정치",
+       "explainImg": "duo/img/psy1-p31-slide.jpg"
       },
       {
        "id": "u1sb-10",
@@ -7064,7 +7482,8 @@
         "normal curve",
         "normal distribution"
        ],
-       "wiki": "정상 곡선"
+       "wiki": "정상 곡선",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-11",
@@ -7077,7 +7496,8 @@
         "중심 극한 정리",
         "central limit theorem"
        ],
-       "wiki": "정상 곡선"
+       "wiki": "정상 곡선",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-12",
@@ -7086,7 +7506,8 @@
        "explain": "반대다. 표본이 커질수록 정규 분포에 **가까워진다**.",
        "src": "1장 p.32",
        "answer": false,
-       "wiki": "정상 곡선"
+       "wiki": "정상 곡선",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-13",
@@ -7101,7 +7522,8 @@
         "표본이 작을수록 더 잘 나타난다"
        ],
        "answer": 0,
-       "wiki": "정상 곡선"
+       "wiki": "정상 곡선",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       },
       {
        "id": "u1sb-14",
@@ -7110,7 +7532,8 @@
        "explain": "7장 p.45: 정규곡선 + 중심극한정리. 1장 통계와 7장 표준화가 이어지는 지점이다.",
        "src": "7장 p.45",
        "wiki": "표준화",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy7-p45-slide.jpg"
       },
       {
        "id": "u1sb-15",
@@ -7121,7 +7544,8 @@
        "wiki": "정상 곡선",
        "answer": true,
        "img": "duo/img/psy1-p32-normal.png",
-       "imgAlt": "웩슬러 지능 점수의 종 모양 분포"
+       "imgAlt": "웩슬러 지능 점수의 종 모양 분포",
+       "explainImg": "duo/img/psy1-p32-slide.jpg"
       }
      ]
     },
@@ -7159,7 +7583,8 @@
         "참가자를 실험 조건에 무작위로 배정한다"
        ],
        "answer": 0,
-       "wiki": "추론통계"
+       "wiki": "추론통계",
+       "explainImg": "duo/img/psy1-p33-slide.jpg"
       },
       {
        "id": "u1sc-02",
@@ -7174,7 +7599,8 @@
         "null hypothesis",
         "0가설"
        ],
-       "wiki": "영가설과 대안 가설"
+       "wiki": "영가설과 대안 가설",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-03",
@@ -7189,7 +7615,8 @@
         "대립 가설",
         "alternative hypothesis"
        ],
-       "wiki": "영가설과 대안 가설"
+       "wiki": "영가설과 대안 가설",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-04",
@@ -7205,7 +7632,8 @@
         "유의확률",
         "p value"
        ],
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-05",
@@ -7216,7 +7644,8 @@
        "answer": 0.05,
        "unit": "",
        "tol": 0,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-06",
@@ -7225,7 +7654,8 @@
        "explain": "교수: 차이가 우연히 관측될 확률이 5% 미만이어야 한다.",
        "src": "1장 p.34",
        "answer": true,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-07",
@@ -7234,7 +7664,8 @@
        "explain": "슬라이드 정의는 **영가설이 참일 확률**이다. 그래서 작을수록 차이가 있다고 해석한다.",
        "src": "1장 p.34",
        "answer": false,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-08",
@@ -7253,7 +7684,8 @@
         "조작적 정의",
         "중앙값"
        ],
-       "wiki": "영가설과 대안 가설"
+       "wiki": "영가설과 대안 가설",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-09",
@@ -7267,7 +7699,8 @@
         "데이터가 우연히 관찰될 확률(P-value) 확인",
         "P-value < 0.05이면 영가설 기각·대안 가설 채택"
        ],
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-10",
@@ -7282,7 +7715,8 @@
         "변산성이 클수록 신뢰성이 높다"
        ],
        "answer": 3,
-       "wiki": "변산성 측정치"
+       "wiki": "추론통계",
+       "explainImg": "duo/img/psy1-p33-slide.jpg"
       },
       {
        "id": "u1sc-11",
@@ -7291,7 +7725,8 @@
        "explain": "반대다. 집단 평균 차이가 크고 집단별 변산성이 **낮을수록** 유의할 가능성이 올라간다(분포가 좁아 구분이 잘 됨).",
        "src": "1장 p.34",
        "answer": false,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-12",
@@ -7306,7 +7741,8 @@
         "사례 수가 적고 평균 차이가 작을 때"
        ],
        "answer": 0,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-13",
@@ -7332,7 +7768,8 @@
          "유의성 판단 기준(미만이면 유의)"
         ]
        ],
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       },
       {
        "id": "u1sc-14",
@@ -7341,7 +7778,8 @@
        "explain": "교수: 주로 실험법 기준으로 설명하지만 실험법뿐 아니라 차이를 보는 연구라면 다 통계적 검정을 거친다.",
        "src": "9/1 녹음 2:14:39",
        "answer": false,
-       "wiki": "P-value"
+       "wiki": "P-value",
+       "explainImg": "duo/img/psy1-p30-slide.jpg"
       },
       {
        "id": "u1sc-15",
@@ -7357,7 +7795,8 @@
         "300명 이상",
         "1000명 이상"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p33-slide.jpg"
       }
      ]
     },
@@ -7395,7 +7834,8 @@
         "가설 수립",
         "연구 설계 및 집행",
         "데이터 분석 및 해석"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p16-slide.jpg"
       },
       {
        "id": "u1sd-02",
@@ -7407,7 +7847,8 @@
        "answer": "가설",
        "alts": [
         "hypothesis"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p16-slide.jpg"
       },
       {
        "id": "u1sd-03",
@@ -7420,7 +7861,8 @@
        "alts": [
         "operational definition",
         "조작적정의"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p16-slide.jpg"
       },
       {
        "id": "u1sd-04",
@@ -7439,7 +7881,8 @@
         "12",
         "8",
         "3"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p16-slide.jpg"
       },
       {
        "id": "u1sd-05",
@@ -7454,7 +7897,8 @@
         "자연 관찰",
         "사회조사"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p17-slide.jpg"
       },
       {
        "id": "u1sd-06",
@@ -7463,7 +7907,8 @@
        "explain": "교수: 세 방법 모두 **설명은 불가**하며 현상이 일어남을 보여 줄 뿐이다.",
        "src": "1장 p.17",
        "wiki": "연구 방법 비교",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy1-p17-slide.jpg"
       },
       {
        "id": "u1sd-07",
@@ -7476,7 +7921,8 @@
        "alts": [
         "case study",
         "사례연구"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p18-slide.jpg"
       },
       {
        "id": "u1sd-08",
@@ -7491,7 +7937,8 @@
         "참가자를 조건에 무작위로 배정한다",
         "소수 사례만 다룰 수 있어 대규모 연구는 불가능하다"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p19-slide.jpg"
       },
       {
        "id": "u1sd-09",
@@ -7506,7 +7953,8 @@
         "평균으로의 회귀",
         "착각 상관"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p20-slide.jpg"
       },
       {
        "id": "u1sd-10",
@@ -7519,7 +7967,8 @@
        "alts": [
         "wording effect",
         "말 표현 효과"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p20-slide.jpg"
       },
       {
        "id": "u1sd-11",
@@ -7533,7 +7982,8 @@
         "random sampling",
         "무작위 표집",
         "무선표집"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p21-slide.jpg"
       },
       {
        "id": "u1sd-12",
@@ -7543,7 +7993,8 @@
        "src": "1장 p.21 🎙",
        "wiki": "무선 표집",
        "prof": true,
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy1-p21-slide.jpg"
       },
       {
        "id": "u1sd-13",
@@ -7552,7 +8003,8 @@
        "explain": "다르다. 무선 표집 = 모집단에서 참가자를 **뽑는** 것, 무선 할당 = 뽑힌 참가자를 조건에 **배정**하는 것.",
        "src": "1장 p.21, 23",
        "wiki": "무선 할당",
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy1-p23-slide.jpg"
       },
       {
        "id": "u1sd-14",
@@ -7582,7 +8034,8 @@
          "사회조사",
          "설문·인터뷰 자기보고식 연구"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p16-slide.jpg"
       }
      ]
     },
@@ -7618,7 +8071,8 @@
        "alts": [
         "correlation",
         "상관관계"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-02",
@@ -7627,7 +8081,8 @@
        "explain": "정적 = 한쪽↑ 다른 쪽↑, 부적 = 한쪽↑ 다른 쪽↓.",
        "src": "1장 p.22",
        "wiki": "상관",
-       "answer": true
+       "answer": true,
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-03",
@@ -7640,7 +8095,8 @@
        "alts": [
         "illusory correlation",
         "착각상관"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-04",
@@ -7654,7 +8110,8 @@
         "regression toward the mean",
         "평균 회귀",
         "평균으로 회귀"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-05",
@@ -7668,7 +8125,8 @@
         "제3 변인",
         "제 3의 변인",
         "third variable"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-06",
@@ -7684,7 +8142,8 @@
         "제3의 변인의 영향을 완전히 배제할 수 있다",
         "참가자를 조건에 무선 할당할 수 있다"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-07",
@@ -7694,7 +8153,8 @@
        "src": "1장 p.22 🎙",
        "wiki": "상관",
        "prof": true,
-       "answer": false
+       "answer": false,
+       "explainImg": "duo/img/psy1-p22-slide.jpg"
       },
       {
        "id": "u1se-08",
@@ -7710,7 +8170,8 @@
         "사회조사",
         "상관 연구"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p23-slide.jpg"
       },
       {
        "id": "u1se-09",
@@ -7729,7 +8190,8 @@
         "가짜약",
         "상관",
         "기술"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p23-slide.jpg"
       },
       {
        "id": "u1se-10",
@@ -7743,7 +8205,8 @@
         "random assignment",
         "무작위 할당",
         "무선할당"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p23-slide.jpg"
       },
       {
        "id": "u1se-11",
@@ -7758,7 +8221,8 @@
         "실험자가 결과를 미리 알기 위해",
         "상관 계수를 계산하기 위해"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p24-slide.jpg"
       },
       {
        "id": "u1se-12",
@@ -7773,7 +8237,8 @@
         "이중 맹검",
         "이중맹검",
         "이중 은폐 절차"
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p24-slide.jpg"
       },
       {
        "id": "u1se-13",
@@ -7788,7 +8253,8 @@
         "변인 통제가 불가능하다",
         "개별 사례가 결과를 오도한다"
        ],
-       "answer": 0
+       "answer": 0,
+       "explainImg": "duo/img/psy1-p25-slide.jpg"
       },
       {
        "id": "u1se-14",
@@ -7814,7 +8280,8 @@
          "가짜약 조건",
          "처치를 받았다는 인지의 효과 확인"
         ]
-       ]
+       ],
+       "explainImg": "duo/img/psy1-p24-slide.jpg"
       },
       {
        "id": "u1se-15",
@@ -7822,8 +8289,9 @@
        "q": "실험에서 두 집단의 평균 차이에 대한 P-value가 0.03이라면 통계적으로 유의한 차이로 본다.",
        "explain": "0.03 < 0.05이므로 유의하다 — 영가설을 기각하고 대안 가설을 채택한다(1장 p.34).",
        "src": "1장 p.23, 34",
-       "wiki": "1장 심리과학을 비판적으로 생각하기",
-       "answer": true
+       "wiki": "P-value",
+       "answer": true,
+       "explainImg": "duo/img/psy1-p34-slide.jpg"
       }
      ]
     }
